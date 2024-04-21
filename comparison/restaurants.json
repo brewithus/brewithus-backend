@@ -1,0 +1,68 @@
+[
+    {
+        "id": "PLACEHOLDER",
+        "alias": "PLACEHOLDER",
+        "name": "PLACEHOLDER",
+        "is_closed": "PLACEHOLDER",
+        "url": "PLACEHOLDER",
+        "categories": [
+            {
+                "alias": "PLACEHOLDER",
+                "title": "PLACEHOLDER"
+            }
+        ],
+        "rating": "PLACEHOLDER",
+        "coordinates": {
+            "latitude": "PLACEHOLDER",
+            "longitude": "PLACEHOLDER"
+        },
+        "reviews": [
+            {
+                "id": "PLACEHOLDER",
+                "url": "PLACEHOLDER",
+                "text": "PLACEHOLDER",
+                "rating": "PLACEHOLDER",
+                "time_created": "PLACEHOLDER"
+            }
+        ]
+    },
+    {
+        "id": "123456",
+        "alias": "the-crab-shack",
+        "name": "The Crab Shack",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-crab-shack",
+        "categories": [
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "american",
+                "title": "American (Traditional)"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 37.7749,
+            "longitude": -122.4194
+        },
+        "reviews": [
+            {
+                "id": "review1",
+                "url": "https://www.yelp.com/biz/the-crab-shack/review1",
+                "text": "The food was amazing! Especially loved the crab legs.",
+                "rating": 5,
+                "time_created": "2024-04-20T12:00:00"
+            },
+            {
+                "id": "review2",
+                "url": "https://www.yelp.com/biz/the-crab-shack/review2",
+                "text": "Great atmosphere and friendly staff. Will definitely come back again.",
+                "rating": 4,
+                "time_created": "2024-04-19T14:30:00"
+            }
+        ]
+    }
+    
+]
