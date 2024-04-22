@@ -4,8 +4,6 @@ from openai import OpenAI
 import json
 import os
 
-import utility
-
 def read_file(file_path):
     try:
         with open(file_path, 'r') as file:
@@ -155,11 +153,7 @@ def get_restaurant_data(filename='restaurants.json'):
     return read_json_file(file_path=filename)
     
 def get_queries(filename='queries.json'):
-    jsonfile = read_json_file(file_path=filename)
-    queries = []
-    for entry in jsonfile:
-        queries.append(entry['query'])
-    return queries
+    return read_json_file(file_path=filename)
     
 
             
