@@ -1,22 +1,5 @@
 from utility import *
 
-def restaurant_string_from_object(restaurant):
-    name = restaurant["name"]
-    categories = ""
-    rating = restaurant["rating"]
-    reviews = ""
-
-    for cat in restaurant["categories"]:
-        title = cat["title"]
-        categories = f"'{title}', {categories}"
-
-    for review in restaurant["reviews"]:
-        text = review["text"]
-        stars = review["rating"]
-        reviews = f"'{text}: rated {stars}', {reviews}"
-
-    return f"a restaurant called {name};with the following categories: {categories};a rating of {rating};with the following user reviews: {reviews}."
-
 def compare_query_restaurant(q, r):
     return chat(
         f"""
@@ -28,6 +11,7 @@ def compare_query_restaurant(q, r):
 if __name__ == '__main__':
     queries = get_queries()
     rests = get_restaurant_data()
+    results = []
 
     # convert to string for prompt
     for i in range(len(rests)):
@@ -35,8 +19,16 @@ if __name__ == '__main__':
 
     for i in range(len(queries)):
         print('_'*50)
+        line = []
         for k in range(len(rests)):
-            print('"' + compare_query_restaurant(queries[i], rests[k]).message.content + '"')
+            c = compare_query_restaurant(queries[i], rests[k]).message.content
+            score = parse_json_string(c)['score']
+            print(score, end=' \t')
+            line.append(score)
+        results.append(line)
+        print()
+
+    save_variable_to_file(results)
 
 
 

@@ -30,6 +30,31 @@ RUNTIMESTAMP = datetime.datetime.now().strftime("%Y.%m.%d_%H.%M.%S")
 
 client = OpenAI(api_key=API_KEY[API_KEY_USE])
 
+def parse_json_string(json_string):
+    try:
+        parsed_json = json.loads(json_string)
+        return parsed_json
+    except json.JSONDecodeError as e:
+        print("Error decoding JSON:", e)
+        return None
+
+def restaurant_string_from_object(restaurant):
+    name = restaurant["name"]
+    categories = ""
+    rating = restaurant["rating"]
+    reviews = ""
+
+    for cat in restaurant["categories"]:
+        title = cat["title"]
+        categories = f"'{title}', {categories}"
+
+    for review in restaurant["reviews"]:
+        text = review["text"]
+        stars = review["rating"]
+        reviews = f"'{text}: rated {stars}', {reviews}"
+
+    return f"a restaurant called {name};with the following categories: {categories};a rating of {rating};with the following user reviews: {reviews}."
+
 def read_json_file(file_path):
     try:
         with open(file_path, 'r') as file:
@@ -126,25 +151,15 @@ def chat(prompt, messages=[], token_limit = DEFAULT_TOKEN_LIMIT):
     save_to_previous_messages({'role': response.choices[0].message.role, 'content': response.choices[0].message.content})
     return response.choices[0]
 
-def get_column_data(filename, delimiter=",", column=0):
-  data = []
-  try:
-    with open(filename, 'r') as file:
-      reader = csv.reader(file, delimiter=delimiter)
-      # Skip header row if it exists
-      next(reader, None)  
-      for row in reader:
-        # Assuming column A is at index 0 (change if needed)
-        data.append(row[column])
-  except FileNotFoundError:
-    print(f"Error: File '{filename}' not found.")
-  return data
-
 def get_restaurant_data(filename='restaurants.json'):
     return read_json_file(file_path=filename)
     
-def get_queries(filename='queries.csv'):
-    return get_column_data(filename)
+def get_queries(filename='queries.json'):
+    jsonfile = read_json_file(file_path=filename)
+    queries = []
+    for entry in jsonfile:
+        queries.append(entry['query'])
+    return queries
     
 
             

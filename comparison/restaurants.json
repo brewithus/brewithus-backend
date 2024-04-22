@@ -1,32 +1,5 @@
 [
     {
-        "id": "PLACEHOLDER",
-        "alias": "PLACEHOLDER",
-        "name": "PLACEHOLDER",
-        "is_closed": "PLACEHOLDER",
-        "url": "PLACEHOLDER",
-        "categories": [
-            {
-                "alias": "PLACEHOLDER",
-                "title": "PLACEHOLDER"
-            }
-        ],
-        "rating": "PLACEHOLDER",
-        "coordinates": {
-            "latitude": "PLACEHOLDER",
-            "longitude": "PLACEHOLDER"
-        },
-        "reviews": [
-            {
-                "id": "PLACEHOLDER",
-                "url": "PLACEHOLDER",
-                "text": "PLACEHOLDER",
-                "rating": "PLACEHOLDER",
-                "time_created": "PLACEHOLDER"
-            }
-        ]
-    },
-    {
         "id": "123456",
         "alias": "the-crab-shack",
         "name": "The Crab Shack",
