@@ -10,12 +10,16 @@ def compare_query_restaurant(query_string, restaurant_string):
     )
 
 def get_score(query, restaurant, num=0):
-    if num > 3: return 0
     try:
-        return parse_json_string(compare_query_restaurant(query, restaurant_string_from_object(restaurant)).message.content)['score']
+        text = compare_query_restaurant(query, restaurant_string_from_object(restaurant)).message.content
+        print(text)
+        return find_score_in_json(text)
     except:
-        return get_score(query, restaurant, num=num+1)
-        
+        if num >= -1: # allow once
+            print(f'Failure in getting score')
+            return 0
+        else:
+            return get_score(query, restaurant, num=num+1)        
 
 def rank_restaurants(query, restaurants):
     # push element objects as such: 
@@ -42,6 +46,7 @@ def get_score_obj(obj):
     return obj['score']
 
 if __name__ == '__main__':
+
     rests = get_restaurant_data() # restaurant_string_from_object to get string description
 
     user_input = ''
@@ -54,4 +59,4 @@ if __name__ == '__main__':
         for r in ranked:
             print(r['name'], ' - ', r['score'])
 
-
+    print(find_score_in_json('score: 54'))

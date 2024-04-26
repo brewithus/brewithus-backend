@@ -1,6 +1,6 @@
 [
     {
-        "id": "1",
+        "id": "0",
         "name": "The Crab Shack",
         "categories": [
             {
@@ -11,10 +11,6 @@
             }
         ],
         "rating": 4.5,
-        "coordinates": {
-            "latitude": 37.7749,
-            "longitude": -122.4194
-        },
         "reviews": [
             {
                 "text": "The food was amazing! Especially loved the crab legs.",
@@ -50,6 +46,41 @@
             {
                 "text": "Great atmosphere and friendly staff. Will definitely come back again.",
                 "rating": 4
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Sunny's Cafe",
+        "categories": [
+            {
+                "title": "Cafes"
+            },
+            {
+                "title": "American"
+            }
+        ],
+        "rating": 4.8,
+        "reviews": [
+            {
+                "text": "Came to try this spot out as we were looking for a breakfast spot, sat down waited 10mins maybe more, multiple employees walking pass giving 0 acknowledgment to me and my girlfriend. Two ladies walk into the door get seated and get their menus right away. The guy w glasses LITERALLY just Looks as us holding 2 extra menus and just doesn't give us one. Made zero sense felt SUPER judge. Never did he once ask did I give you guys a menu? Yeah it was busy but 4 tables were open. 1 group was already getting ready to leave. So me and my gf walked out never will be back here.",
+                "rating": 1
+            },
+            {
+                "text": "Fresh made food, with bread made from scratch (bakery next door) with good sized portions. Fast customer service for drinks but, keep in mind the food takes a little longer cause it's made fresh. The overall vibe is chill and a little romantic (teenagers would ambience. Clean restrooms. Reason for loosing only lost a star: cause of the soft opening was slowing down with construction completion. Not all the fountain drinks are available yet (waiting to be hooked up). Restroom trash can is too big for the one room. Parking is limited.",
+                "rating": 4
+            },
+            {
+                "text": "The outside doesn't look much and the interior decor looks like it's still in progress of adding more curios. The small menu may look skeptical but the food was actually scrumptious and excellent. The food took slightly longer than expectation, but they were fresh and hot. The portion was plenty. For what you are paying for, it was worth the money. I have tried two different dishes. Katsu sando and shrimp poboy. Definitely will visit and try other dishes on the menu. It's 4.7 out of 5! Give it a try!",
+                "rating": 5
+            },
+            {
+                "text": "Came here for breakfast and I'm happy to say it is really good! All our meals were fresh and prepared with attention to detail. Eggs, veggies, potatoes all cooked perfectly. Kudos to the chef! Service was also great. I recommend this place!",
+                "rating": 5
+            },
+            {
+                "text": "Comida hecha al momento, un lugar limpio y tranquilo para desayunar, las mejores French toast Definitivamente volveremos",
+                "rating": 5
             }
         ]
     }

@@ -1,5 +1,6 @@
 import csv
 import datetime
+import re
 from openai import OpenAI
 import json
 import os
@@ -28,13 +29,24 @@ RUNTIMESTAMP = datetime.datetime.now().strftime("%Y.%m.%d_%H.%M.%S")
 
 client = OpenAI(api_key=API_KEY[API_KEY_USE])
 
-def parse_json_string(json_string):
+
+"""def parse_json_string(json_string):
     try:
         parsed_json = json.loads(json_string)
         return parsed_json
     except json.JSONDecodeError as e:
         print("Error decoding JSON:", e)
-        return None
+        return None"""
+
+# better function that above
+def find_score_in_json(json_string):
+    pattern = r"\"score\": (\d+)"
+    match = re.search(pattern, json_string)
+    if match:
+        score = int(match.group(1))
+        return score
+    else:
+        raise Exception("Error in finding score")
 
 def restaurant_string_from_object(restaurant):
     name = restaurant["name"]
