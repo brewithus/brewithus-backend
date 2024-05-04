@@ -1,0 +1,2593 @@
+{
+  "businesses": [
+    {
+      "id": "K-3eiVb-dAkC3ujgnT4QSQ",
+      "alias": "nobibi-ice-cream-and-tea-pomona",
+      "name": "Nobibi Ice Cream & Tea",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9Hq6bKZLWq3hWN4HsEeSsA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/nobibi-ice-cream-and-tea-pomona?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 84,
+      "categories": [
+        {
+          "alias": "icecream",
+          "title": "Ice Cream & Frozen Yogurt"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        }
+      ],
+      "rating": 4.8,
+      "coordinates": {
+        "latitude": 34.04863361429603,
+        "longitude": -117.81060003243655
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "3560 W Temple Ave",
+        "address2": "Ste D",
+        "address3": "",
+        "city": "Pomona",
+        "zip_code": "91768",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "3560 W Temple Ave",
+          "Ste D",
+          "Pomona, CA 91768"
+        ]
+      },
+      "phone": "+19098957192",
+      "display_phone": "(909) 895-7192",
+      "distance": 76.93825229013927,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "sQcKe69dfH46fBYl0Hwslg",
+      "alias": "sugar-rush-cafe-walnut",
+      "name": "Sugar Rush Cafe",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8Y4hL-JUin6iXYcv_kGl7Q/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/sugar-rush-cafe-walnut?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 987,
+      "categories": [
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "tradamerican",
+          "title": "American"
+        }
+      ],
+      "rating": 3.8,
+      "coordinates": {
+        "latitude": 34.0401610088164,
+        "longitude": -117.820527729452
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "3900 Valley Blvd",
+        "address2": "Ste A",
+        "address3": "",
+        "city": "Walnut",
+        "zip_code": "91789",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "3900 Valley Blvd",
+          "Ste A",
+          "Walnut, CA 91789"
+        ]
+      },
+      "phone": "+19098697969",
+      "display_phone": "(909) 869-7969",
+      "distance": 1241.680815552068,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "IKoK1Zu8wD50q88rFnRnKA",
+      "alias": "jj-boba-pomona",
+      "name": "JJ Boba",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4pirIJhN_cYw8oVNHqBnjQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/jj-boba-pomona?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 131,
+      "categories": [
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 34.04842,
+        "longitude": -117.81095
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "3560 W Temple Ave",
+        "address2": "Ste A&B",
+        "address3": null,
+        "city": "Pomona",
+        "zip_code": "91768",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "3560 W Temple Ave",
+          "Ste A&B",
+          "Pomona, CA 91768"
+        ]
+      },
+      "phone": "+19095988499",
+      "display_phone": "(909) 598-8499",
+      "distance": 73.49713769299086,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.jjboba.com/menu/",
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "2OeJysXpVghJpGdMNj3onA",
+      "alias": "rail-side-cafe-san-dimas",
+      "name": "Rail Side Cafe",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/L-_AO125Qc6vyA8J4FX16Q/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/rail-side-cafe-san-dimas?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 1071,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "rating": 4.6,
+      "coordinates": {
+        "latitude": 34.1040463,
+        "longitude": -117.8069951
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "322 S San Dimas Ave",
+        "address2": "",
+        "address3": "",
+        "city": "San Dimas",
+        "zip_code": "91773",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "322 S San Dimas Ave",
+          "San Dimas, CA 91773"
+        ]
+      },
+      "phone": "+19095998637",
+      "display_phone": "(909) 599-8637",
+      "distance": 6290.654800104913,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://railsidecafe.com/rail-side-cafe-menu/",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "G2HeCZ7cttcMKt022v3RbQ",
+      "alias": "inhouse-coffee-san-dimas-2",
+      "name": "Inhouse Coffee",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/me3CBHzaFRIueba5VoR33Q/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/inhouse-coffee-san-dimas-2?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 206,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "juicebars",
+          "title": "Juice Bars & Smoothies"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 4.8,
+      "coordinates": {
+        "latitude": 34.10639774910105,
+        "longitude": -117.8260598
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "942 W Arrow Hwy",
+        "address2": null,
+        "address3": "",
+        "city": "San Dimas",
+        "zip_code": "91773",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "942 W Arrow Hwy",
+          "San Dimas, CA 91773"
+        ]
+      },
+      "phone": "+19094470782",
+      "display_phone": "(909) 447-0782",
+      "distance": 6641.810055538503,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://inhousecoffee.com/menu/",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "grDJjaRLRw6xwvznb-ywig",
+      "alias": "cafe-valer-west-covina",
+      "name": "Cafe Valer",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WaCU_I49IKeNfYA9RQb8_g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/cafe-valer-west-covina?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 955,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "desserts",
+          "title": "Desserts"
+        }
+      ],
+      "rating": 4.7,
+      "coordinates": {
+        "latitude": 34.070295,
+        "longitude": -117.930481
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "112 Plaza Dr",
+        "address2": "Ste 1032",
+        "address3": "",
+        "city": "West Covina",
+        "zip_code": "91790",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "112 Plaza Dr",
+          "Ste 1032",
+          "West Covina, CA 91790"
+        ]
+      },
+      "phone": "+16263376622",
+      "display_phone": "(626) 337-6622",
+      "distance": 11289.116067931724,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://cafevaler.net/menu/",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "Nqns98csD4A8V-O_Ajxu4w",
+      "alias": "the-dirty-penguin-chino-hills-2",
+      "name": "The Dirty Penguin",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/m0Njzy0wejB8zNGslPOuQA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/the-dirty-penguin-chino-hills-2?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 1299,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 33.9858343112112,
+        "longitude": -117.71633826676
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "14708 Pipeline Ave",
+        "address2": "Ste C",
+        "address3": null,
+        "city": "Chino Hills",
+        "zip_code": "91709",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "14708 Pipeline Ave",
+          "Ste C",
+          "Chino Hills, CA 91709"
+        ]
+      },
+      "phone": "+19096064634",
+      "display_phone": "(909) 606-4634",
+      "distance": 11125.526938080031,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://thedirtypenguin.site/menu",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "YFYcvO7c54PCZ-5vjiy01A",
+      "alias": "mi-cafecito-coffee-pomona",
+      "name": "Mi Cafecito Coffee",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4Gx4uhq1qoeyESECKCV9ZQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mi-cafecito-coffee-pomona?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 1068,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 4.6,
+      "coordinates": {
+        "latitude": 34.0584033,
+        "longitude": -117.7525123
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "101 S Main St",
+        "address2": "",
+        "address3": "",
+        "city": "Pomona",
+        "zip_code": "91766",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "101 S Main St",
+          "Pomona, CA 91766"
+        ]
+      },
+      "phone": "+19096235683",
+      "display_phone": "(909) 623-5683",
+      "distance": 5497.451563717097,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://www.micafecitocoffee.com/s/order",
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "EgkeJWvhxRkqqBg5TcF9Xg",
+      "alias": "starbucks-pomona-19",
+      "name": "Starbucks",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eeeCg_pY4jCZ585s8kdMYA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/starbucks-pomona-19?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 113,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 3.3,
+      "coordinates": {
+        "latitude": 34.047633,
+        "longitude": -117.810922
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "3423 Pomona Blvd",
+        "address2": "",
+        "address3": null,
+        "city": "Pomona",
+        "zip_code": "91768",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "3423 Pomona Blvd",
+          "Pomona, CA 91768"
+        ]
+      },
+      "phone": "+19099739053",
+      "display_phone": "(909) 973-9053",
+      "distance": 40.42768930825326,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.starbucks.com/menu",
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "J3pf8bLvDfXnhw12WEEPHQ",
+      "alias": "klatch-coffee-san-dimas",
+      "name": "Klatch Coffee",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6Cxs4nFZNzuLQ5qI10kRFg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/klatch-coffee-san-dimas?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 956,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 4.3,
+      "coordinates": {
+        "latitude": 34.1061624080906,
+        "longitude": -117.822545908989
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "806 W Arrow Hwy",
+        "address2": "Ste A",
+        "address3": "",
+        "city": "San Dimas",
+        "zip_code": "91773",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "806 W Arrow Hwy",
+          "Ste A",
+          "San Dimas, CA 91773"
+        ]
+      },
+      "phone": "+19095990452",
+      "display_phone": "(909) 599-0452",
+      "distance": 6555.685251360535,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "Jjcj9VsIeDiTqmEQ1HbEQw",
+      "alias": "bageloo-diamond-bar",
+      "name": "Bageloo",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/U5nFgSCY5FFhCZCpfcEjoQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/bageloo-diamond-bar?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 499,
+      "categories": [
+        {
+          "alias": "bagels",
+          "title": "Bagels"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "bakeries",
+          "title": "Bakeries"
+        }
+      ],
+      "rating": 4.3,
+      "coordinates": {
+        "latitude": 34.00043,
+        "longitude": -117.81049
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "1200 S Diamond Bar Blvd",
+        "address2": "Ste 102",
+        "address3": null,
+        "city": "Diamond Bar",
+        "zip_code": "91765",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "1200 S Diamond Bar Blvd",
+          "Ste 102",
+          "Diamond Bar, CA 91765"
+        ]
+      },
+      "phone": "+19098617456",
+      "display_phone": "(909) 861-7456",
+      "distance": 5289.30694137918,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://bageloo.com/menu/",
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "iZRabl01VEkWywkBh6SQ5w",
+      "alias": "ichi-poki-and-ramen-chino",
+      "name": "Ichi Poki & Ramen",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YLgrbXXQF3Vv12QCEhLHOQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/ichi-poki-and-ramen-chino?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 711,
+      "categories": [
+        {
+          "alias": "poke",
+          "title": "Poke"
+        },
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        },
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 33.99628,
+        "longitude": -117.71564
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "4021 Grand Ave",
+        "address2": "Ste A",
+        "address3": null,
+        "city": "Chino",
+        "zip_code": "91710",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "4021 Grand Ave",
+          "Ste A",
+          "Chino, CA 91710"
+        ]
+      },
+      "phone": "+19093649666",
+      "display_phone": "(909) 364-9666",
+      "distance": 10481.47094222601,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.ichipoki.com/",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "YegERWrkgQslvznEbOozwA",
+      "alias": "ventana-coffee-covina",
+      "name": "Ventana Coffee",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KP_HDEI-viBgXllIUoo0lg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/ventana-coffee-covina?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 448,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "desserts",
+          "title": "Desserts"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 4.8,
+      "coordinates": {
+        "latitude": 34.0912536,
+        "longitude": -117.9079949
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "589 N Azusa Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Covina",
+        "zip_code": "91722",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "589 N Azusa Ave",
+          "Covina, CA 91722"
+        ]
+      },
+      "phone": "+16263323303",
+      "display_phone": "(626) 332-3303",
+      "distance": 10216.191136998646,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "xNyEmzWPDrERtMboHwRlVA",
+      "alias": "ginkgo-katsu-diamond-bar",
+      "name": "Ginkgo Katsu",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qkoUPC2g1nC03sfVglLMsA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/ginkgo-katsu-diamond-bar?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 403,
+      "categories": [
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        },
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 4.6,
+      "coordinates": {
+        "latitude": 33.998244,
+        "longitude": -117.843431
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "1131 Brea Canyon Rd",
+        "address2": null,
+        "address3": "",
+        "city": "Diamond Bar",
+        "zip_code": "91789",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "1131 Brea Canyon Rd",
+          "Diamond Bar, CA 91789"
+        ]
+      },
+      "phone": "+19098957808",
+      "display_phone": "(909) 895-7808",
+      "distance": 6289.521009063993,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://www.ginkgokatsu.com/menu",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "WTVLFNZ_OiQT9umy5rApCQ",
+      "alias": "clearwater-bagel-walnut",
+      "name": "Clearwater Bagel",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/G0N_jBUuLhYNSoG6EYvHKw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/clearwater-bagel-walnut?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 419,
+      "categories": [
+        {
+          "alias": "bagels",
+          "title": "Bagels"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": 34.04282964742507,
+        "longitude": -117.85036731741056
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "20747 Amar Rd",
+        "address2": "Ste 1",
+        "address3": "",
+        "city": "Walnut",
+        "zip_code": "91789",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "20747 Amar Rd",
+          "Ste 1",
+          "Walnut, CA 91789"
+        ]
+      },
+      "phone": "+19095984332",
+      "display_phone": "(909) 598-4332",
+      "distance": 3679.0823265857875,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "oUoczDcAtwpPMjNpGWtmHA",
+      "alias": "french-press-espresso-bar-la-verne",
+      "name": "French Press Espresso Bar",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JTZbgnvW17qi1Fm0SsM1ng/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/french-press-espresso-bar-la-verne?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 75,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 4.7,
+      "coordinates": {
+        "latitude": 34.11526,
+        "longitude": -117.76751
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "3836 Emerald Ave",
+        "address2": "Unit I",
+        "address3": "",
+        "city": "La Verne",
+        "zip_code": "91750",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "3836 Emerald Ave",
+          "Unit I",
+          "La Verne, CA 91750"
+        ]
+      },
+      "phone": "+19095932676",
+      "display_phone": "(909) 593-2676",
+      "distance": 8478.252801815794,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://www.frenchpressespressobar.com/bites/",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "1AX4qwYPovubqQzlFeRyBw",
+      "alias": "mantra-coffee-and-bnb-azusa",
+      "name": "Mantra Coffee & BnB",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JfqXNOy7D5OlogzALSMEpA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mantra-coffee-and-bnb-azusa?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 955,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "bakeries",
+          "title": "Bakeries"
+        },
+        {
+          "alias": "desserts",
+          "title": "Desserts"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": 34.1323,
+        "longitude": -117.90921
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "615 N San Gabriel Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Azusa",
+        "zip_code": "91702",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "615 N San Gabriel Ave",
+          "Azusa, CA 91702"
+        ]
+      },
+      "phone": "+16268125321",
+      "display_phone": "(626) 812-5321",
+      "distance": 13028.399122957517,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.mantracoffeeco.com/menu/",
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "dCMyAarGq2PCsGBBD18Yjw",
+      "alias": "boba-tea-lounge-covina",
+      "name": "Boba Tea Lounge",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_wr-7OEu5tn_vzJ5Rpmz8g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/boba-tea-lounge-covina?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 1077,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        },
+        {
+          "alias": "tea",
+          "title": "Tea Rooms"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 34.0812695,
+        "longitude": -117.8902649
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "453 S Citrus Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Covina",
+        "zip_code": "91723",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "453 S Citrus Ave",
+          "Covina, CA 91723"
+        ]
+      },
+      "phone": "+16263399639",
+      "display_phone": "(626) 339-9639",
+      "distance": 8214.240316438112,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://bobatealounge.site/menu",
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "P-MdwjOfw-o2eJ4hCMXAZg",
+      "alias": "reborn-coffee-diamond-bar-diamond-bar-2",
+      "name": "Reborn Coffee - Diamond Bar",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/RMt2BfoOhW7QDJTrQILGyA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/reborn-coffee-diamond-bar-diamond-bar-2?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 89,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "coffeeroasteries",
+          "title": "Coffee Roasteries"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": 34.00255904958603,
+        "longitude": -117.80983742326498
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "1138 S Diamond Bar Blvd",
+        "address2": "",
+        "address3": null,
+        "city": "Diamond Bar",
+        "zip_code": "91765",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "1138 S Diamond Bar Blvd",
+          "Diamond Bar, CA 91765"
+        ]
+      },
+      "phone": "+15626407050",
+      "display_phone": "(562) 640-7050",
+      "distance": 5053.410878327244,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://order.snackpass.co/Reborn-Coffee-Diamond-Bar-62f2d7d2dee83600db9b31d9?openAddressSelectorIfChain=true",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "kosvtE7xZfD0vJYj5nGEuA",
+      "alias": "butter-cafe-and-bakery-san-dimas",
+      "name": "Butter Cafe and Bakery",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/naIq6DMSE-c1bF1qVJE9_Q/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/butter-cafe-and-bakery-san-dimas?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 1301,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        },
+        {
+          "alias": "bakeries",
+          "title": "Bakeries"
+        }
+      ],
+      "rating": 3.9,
+      "coordinates": {
+        "latitude": 34.107048136809475,
+        "longitude": -117.79532051345284
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "671 East Bonita Ave",
+        "address2": "Ste F",
+        "address3": "",
+        "city": "San Dimas",
+        "zip_code": "91773",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "671 East Bonita Ave",
+          "Ste F",
+          "San Dimas, CA 91773"
+        ]
+      },
+      "phone": "+19095995381",
+      "display_phone": "(909) 599-5381",
+      "distance": 6721.688146408849,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": false
+      }
+    },
+    {
+      "id": "pKg9eq1wPJKZPitza4-2MQ",
+      "alias": "the-mugs-diamond-bar",
+      "name": "The Mugs",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NigawcUkHobN3wmOittIPQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/the-mugs-diamond-bar?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 487,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": 33.99788,
+        "longitude": -117.85378
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "20657 Golden Springs Dr",
+        "address2": "Ste 101",
+        "address3": null,
+        "city": "Diamond Bar",
+        "zip_code": "91789",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "20657 Golden Springs Dr",
+          "Ste 101",
+          "Diamond Bar, CA 91789"
+        ]
+      },
+      "phone": "+19096556103",
+      "display_phone": "(909) 655-6103",
+      "distance": 6820.55582957572,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://goteoconsulting.wixsite.com/themugsusa/menu-ordering",
+        "waitlist_reservation": false
+      }
+    },
+    {
+      "id": "bDpHpJYTejgZ1Oa5Ac-wlg",
+      "alias": "omomo-tea-shoppe-chino-hills-2",
+      "name": "OMOMO Tea Shoppe",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0pwk251OVLv9eP7bXjOpbA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/omomo-tea-shoppe-chino-hills-2?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 1304,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        },
+        {
+          "alias": "juicebars",
+          "title": "Juice Bars & Smoothies"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": 34.0106158,
+        "longitude": -117.7406132
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "2983 Chino Ave",
+        "address2": "Unit A8",
+        "address3": "",
+        "city": "Chino Hills",
+        "zip_code": "91709",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "2983 Chino Ave",
+          "Unit A8",
+          "Chino Hills, CA 91709"
+        ]
+      },
+      "phone": "+19093648644",
+      "display_phone": "(909) 364-8644",
+      "distance": 7745.282494683684,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://www.omomoteashoppe.com/menu",
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "RnZHDf4zGydyzZbWh2hCJw",
+      "alias": "the-bagelry-covina-covina-9",
+      "name": "The Bagelry Covina",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ovHHs3Y2D-KkhfZfVsF3gw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/the-bagelry-covina-covina-9?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 503,
+      "categories": [
+        {
+          "alias": "bagels",
+          "title": "Bagels"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": 34.079532,
+        "longitude": -117.886699
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "239 E Rowland St",
+        "address2": null,
+        "address3": "",
+        "city": "Covina",
+        "zip_code": "91723",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "239 E Rowland St",
+          "Covina, CA 91723"
+        ]
+      },
+      "phone": "+16263439995",
+      "display_phone": "(626) 343-9995",
+      "distance": 7811.185205738976,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "GTKW6RDpGJYZWkOXRWQieA",
+      "alias": "take-ur-seat-chino-hills",
+      "name": "Take Ur Seat",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dP2c0S8q-6JTsctou5jt8g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/take-ur-seat-chino-hills?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 1929,
+      "categories": [
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        },
+        {
+          "alias": "asianfusion",
+          "title": "Asian Fusion"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 4.1,
+      "coordinates": {
+        "latitude": 33.96507612501635,
+        "longitude": -117.6910828381325
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "15871 Pomona Rincon Rd",
+        "address2": "Ste 100",
+        "address3": "",
+        "city": "Chino Hills",
+        "zip_code": "91709",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "15871 Pomona Rincon Rd",
+          "Ste 100",
+          "Chino Hills, CA 91709"
+        ]
+      },
+      "phone": "+19094791883",
+      "display_phone": "(909) 479-1883",
+      "distance": 14389.130926617525,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://www.takeurseat.com/menus",
+        "open24_hours": null,
+        "waitlist_reservation": true
+      }
+    },
+    {
+      "id": "jj3K5LOclffeffTnxh1Xow",
+      "alias": "pressed-flower-azusa-2",
+      "name": "Pressed + Flower",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NQUvXT_vz5kxXw1JD5cPrg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/pressed-flower-azusa-2?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 183,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 4.8,
+      "coordinates": {
+        "latitude": 34.13062,
+        "longitude": -117.90786
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "523 N Azusa Ave",
+        "address2": "",
+        "address3": null,
+        "city": "Azusa",
+        "zip_code": "91702",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "523 N Azusa Ave",
+          "Azusa, CA 91702"
+        ]
+      },
+      "phone": "+16268043984",
+      "display_phone": "(626) 804-3984",
+      "distance": 12816.045130230097,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "IIa82CILl7a0nnAeaTbypA",
+      "alias": "nambah-coffee-la-verne-2",
+      "name": "Nambah Coffee",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3cc7VmskFXX-92b2XMtwAQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/nambah-coffee-la-verne-2?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 151,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 4.7,
+      "coordinates": {
+        "latitude": 34.09999,
+        "longitude": -117.77002
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "2232 D St",
+        "address2": "",
+        "address3": null,
+        "city": "La Verne",
+        "zip_code": "91750",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "2232 D St",
+          "La Verne, CA 91750"
+        ]
+      },
+      "phone": "+19092938481",
+      "display_phone": "(909) 293-8481",
+      "distance": 6899.912781667249,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "K9qw9od5bKemD2KoLjjgsw",
+      "alias": "boba-chew-chew-walnut",
+      "name": "Boba Chew Chew",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ksKq4_vYHt4ja5NYuHaRKw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/boba-chew-chew-walnut?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 241,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 34.04348822041327,
+        "longitude": -117.84908536003088
+      },
+      "transactions": [
+        "pickup"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "1223 N Grand Ave",
+        "address2": "",
+        "address3": null,
+        "city": "Walnut",
+        "zip_code": "91789",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "1223 N Grand Ave",
+          "Walnut, CA 91789"
+        ]
+      },
+      "phone": "+19098954419",
+      "display_phone": "(909) 895-4419",
+      "distance": 3551.3773965494,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "MflNcNpgNr5DHapnEq5j0A",
+      "alias": "grid-coffee-diamond-bar",
+      "name": "Grid Coffee",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/afNfDdYr-F_Z2SQVTYrPnw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/grid-coffee-diamond-bar?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 368,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": 34.002840677984295,
+        "longitude": -117.81076363193182
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "1139 S Diamond Bar Blvd",
+        "address2": "Ste B",
+        "address3": null,
+        "city": "Diamond Bar",
+        "zip_code": "91765",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "1139 S Diamond Bar Blvd",
+          "Ste B",
+          "Diamond Bar, CA 91765"
+        ]
+      },
+      "phone": "+19095512688",
+      "display_phone": "(909) 551-2688",
+      "distance": 5021.121774771223,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "nBSAG83PkKGk0-Za0r43ww",
+      "alias": "goomo-tea-shop-walnut-4",
+      "name": "Goomo Tea Shop",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hV9lrUuxseh67qh8O_Rtcg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/goomo-tea-shop-walnut-4?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 175,
+      "categories": [
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        },
+        {
+          "alias": "desserts",
+          "title": "Desserts"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 4.6,
+      "coordinates": {
+        "latitude": 34.0435,
+        "longitude": -117.84888
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "1217 N Grand Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Walnut",
+        "zip_code": "91789",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "1217 N Grand Ave",
+          "Walnut, CA 91789"
+        ]
+      },
+      "phone": "+19095950094",
+      "display_phone": "(909) 595-0094",
+      "distance": 3544.189304281329,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "54MLD-TGf2TYp8Bed1sjEA",
+      "alias": "iron-and-kin-coffee-co-claremont",
+      "name": "Iron & Kin Coffee Co",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/BNGBf60_RvWuESM_7hbcTQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/iron-and-kin-coffee-co-claremont?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 229,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "rating": 4.6,
+      "coordinates": {
+        "latitude": 34.09412,
+        "longitude": -117.721338
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "536 W 1st St",
+        "address2": null,
+        "address3": "",
+        "city": "Claremont",
+        "zip_code": "91711",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "536 W 1st St",
+          "Claremont, CA 91711"
+        ]
+      },
+      "phone": "+19093010543",
+      "display_phone": "(909) 301-0543",
+      "distance": 9714.183160121873,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "ZDrpEvaZKX1-YVLOGXYs4A",
+      "alias": "wish-you-were-here-coffee-pomona",
+      "name": "Wish You Were Here Coffee",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lNhwbxOhJEWOswQWxmk86A/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/wish-you-were-here-coffee-pomona?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 236,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "coffeeroasteries",
+          "title": "Coffee Roasteries"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": 34.057199657984,
+        "longitude": -117.7498288792822
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "101 E 3rd St",
+        "address2": null,
+        "address3": null,
+        "city": "Pomona",
+        "zip_code": "91766",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "101 E 3rd St",
+          "Pomona, CA 91766"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 5720.990800010912,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "SVO5PQrH9kc-pSnfeP9F1A",
+      "alias": "chaos-bubble-shoppe-chino-hills-3",
+      "name": "Chaos Bubble Shoppe",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/AwlbMcHvIsR2g2pQEtntPQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/chaos-bubble-shoppe-chino-hills-3?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 191,
+      "categories": [
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "juicebars",
+          "title": "Juice Bars & Smoothies"
+        }
+      ],
+      "rating": 4.8,
+      "coordinates": {
+        "latitude": 34.00316189999999,
+        "longitude": -117.7276242
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "3626 Grand Ave",
+        "address2": "Ste A",
+        "address3": "",
+        "city": "Chino Hills",
+        "zip_code": "91709",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "3626 Grand Ave",
+          "Ste A",
+          "Chino Hills, CA 91709"
+        ]
+      },
+      "phone": "+19099031988",
+      "display_phone": "(909) 903-1988",
+      "distance": 9153.564397614979,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://chaosbubbleshoppe.com/menu/93760329",
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "PLgBfWZAcRnbifQoyDcvwQ",
+      "alias": "cafe-86-chino-hills",
+      "name": "Cafe 86",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IEgqs1RCUNXK3kZ5IQ8_VQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/cafe-86-chino-hills?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 1230,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": 33.963452828282044,
+        "longitude": -117.6965116
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "15938 Los Serranos Country Club Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Chino Hills",
+        "zip_code": "91709",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "15938 Los Serranos Country Club Dr",
+          "Chino Hills, CA 91709"
+        ]
+      },
+      "phone": "+19099259986",
+      "display_phone": "(909) 925-9986",
+      "distance": 14128.159099431698,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "hBuUi34diG8uc45oMaNdag",
+      "alias": "r-and-b-tea-walnut-walnut",
+      "name": "R&B Tea- Walnut",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/RHJCQRVC7pc-FhFSsmrrsg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/r-and-b-tea-walnut-walnut?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 105,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": 34.044417,
+        "longitude": -117.849389
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "1251 N Grand Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Walnut",
+        "zip_code": "91789",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "1251 N Grand Ave",
+          "Walnut, CA 91789"
+        ]
+      },
+      "phone": "+19094891568",
+      "display_phone": "(909) 489-1568",
+      "distance": 3566.8195628349963,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "waitlist_reservation": false
+      }
+    },
+    {
+      "id": "JLyP3zNKUb1VFD0MVj0ZxQ",
+      "alias": "the-last-drop-cafe-claremont",
+      "name": "The Last Drop Cafe",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Ya2Gica_Ysl3GvxdBquqBg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/the-last-drop-cafe-claremont?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 735,
+      "categories": [
+        {
+          "alias": "bakeries",
+          "title": "Bakeries"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 4.3,
+      "coordinates": {
+        "latitude": 34.0950205,
+        "longitude": -117.7164283
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "119 Harvard Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Claremont",
+        "zip_code": "91711",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "119 Harvard Ave",
+          "Claremont, CA 91711"
+        ]
+      },
+      "phone": "+19094821870",
+      "display_phone": "(909) 482-1870",
+      "distance": 10153.732619835868,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "YNoOuwUEf85NzLM630qWXQ",
+      "alias": "paris-baguette-chino-hills-2",
+      "name": "Paris Baguette",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JBYJ2O-VVs8FAqHMN4HW4w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/paris-baguette-chino-hills-2?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 228,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "bakeries",
+          "title": "Bakeries"
+        },
+        {
+          "alias": "cakeshop",
+          "title": "Patisserie/Cake Shop"
+        }
+      ],
+      "rating": 4.3,
+      "coordinates": {
+        "latitude": 34.00948476519529,
+        "longitude": -117.7417833145454
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "location": {
+        "address1": "2923 Chino Ave",
+        "address2": null,
+        "address3": null,
+        "city": "Chino Hills",
+        "zip_code": "91709",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "2923 Chino Ave",
+          "Chino Hills, CA 91709"
+        ]
+      },
+      "phone": "+19095901109",
+      "display_phone": "(909) 590-1109",
+      "distance": 7677.054575561794,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "IpHt8w8w2FmpOUrR25lcaQ",
+      "alias": "almond-haus-cafe-claremont-2",
+      "name": "Almond Haus Cafe",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SZXbAvQ_24rvHWINFx9_iA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/almond-haus-cafe-claremont-2?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 104,
+      "categories": [
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        },
+        {
+          "alias": "juicebars",
+          "title": "Juice Bars & Smoothies"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 4.8,
+      "coordinates": {
+        "latitude": 34.10771739515104,
+        "longitude": -117.73133928435948
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "909 W Foothill Blvd",
+        "address2": null,
+        "address3": "",
+        "city": "Claremont",
+        "zip_code": "91711",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "909 W Foothill Blvd",
+          "Claremont, CA 91711"
+        ]
+      },
+      "phone": "+19095064230",
+      "display_phone": "(909) 506-4230",
+      "distance": 9890.71124045596,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://almond-haus.com/menu/",
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "tvpkDFDDArvZ3AzUXckzUQ",
+      "alias": "bengongs-tea-walnut-walnut",
+      "name": "BenGong's Tea - Walnut",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7yP085wRbITdpBwPmNfbJA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/bengongs-tea-walnut-walnut?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 121,
+      "categories": [
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 4.1,
+      "coordinates": {
+        "latitude": 34.04384156877932,
+        "longitude": -117.8492297
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "1241 N Grand Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Walnut",
+        "zip_code": "91789",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "1241 N Grand Ave",
+          "Walnut, CA 91789"
+        ]
+      },
+      "phone": "+19096127244",
+      "display_phone": "(909) 612-7244",
+      "distance": 3559.2231177943904,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://www.bengongstea.us/menu",
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "JnwGiRRPNFfeyK7BEzIt0w",
+      "alias": "qyuancha-teashop-walnut-2",
+      "name": "Qyuancha Teashop",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EqtPy0W1bjXb-WWWEixaiQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/qyuancha-teashop-walnut-2?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 52,
+      "categories": [
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        },
+        {
+          "alias": "tea",
+          "title": "Tea Rooms"
+        },
+        {
+          "alias": "chicken_wings",
+          "title": "Chicken Wings"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": 34.016793,
+        "longitude": -117.8498235
+      },
+      "transactions": [],
+      "location": {
+        "address1": "134 Pierre Rd",
+        "address2": null,
+        "address3": "",
+        "city": "Walnut",
+        "zip_code": "91789",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "134 Pierre Rd",
+          "Walnut, CA 91789"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 4966.39540578686,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": false
+      }
+    },
+    {
+      "id": "TwAZL3eY4cjsXFMEYi-Zjg",
+      "alias": "the-ice-bar-west-covina",
+      "name": "The Ice Bar",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zQqLAw9z-xJGTaoDRgUPzw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/the-ice-bar-west-covina?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 844,
+      "categories": [
+        {
+          "alias": "juicebars",
+          "title": "Juice Bars & Smoothies"
+        },
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 34.068157,
+        "longitude": -117.923776
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "350 S Glendora Ave",
+        "address2": null,
+        "address3": "",
+        "city": "West Covina",
+        "zip_code": "91790",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "350 S Glendora Ave",
+          "West Covina, CA 91790"
+        ]
+      },
+      "phone": "+16263370854",
+      "display_phone": "(626) 337-0854",
+      "distance": 10634.803593537832,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.theicebarwestcovina.com",
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "RPPgt1HPle5aY3bT-6Lc7Q",
+      "alias": "health-station-diamond-bar-2",
+      "name": "Health Station",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/H6mwBcXPbX93OBI5JpyuYQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/health-station-diamond-bar-2?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 154,
+      "categories": [
+        {
+          "alias": "acupuncture",
+          "title": "Acupuncture"
+        },
+        {
+          "alias": "tea",
+          "title": "Tea Rooms"
+        },
+        {
+          "alias": "reflexology",
+          "title": "Reflexology"
+        }
+      ],
+      "rating": 4.6,
+      "coordinates": {
+        "latitude": 33.997937,
+        "longitude": -117.853795
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "20657 Golden Spring Dr",
+        "address2": "Ste 109",
+        "address3": "",
+        "city": "Diamond Bar",
+        "zip_code": "91789",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "20657 Golden Spring Dr",
+          "Ste 109",
+          "Diamond Bar, CA 91789"
+        ]
+      },
+      "phone": "+16262578441",
+      "display_phone": "(626) 257-8441",
+      "distance": 6825.92296225069,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "AscP_p1oR3Wb267Q7GHNCg",
+      "alias": "37-2-degree-cafe-and-curry-west-covina",
+      "name": "37.2 Degree Cafe & Curry",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rkppmwobo1FDJEr9NDEylA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/37-2-degree-cafe-and-curry-west-covina?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 240,
+      "categories": [
+        {
+          "alias": "japacurry",
+          "title": "Japanese Curry"
+        },
+        {
+          "alias": "tea",
+          "title": "Tea Rooms"
+        },
+        {
+          "alias": "asianfusion",
+          "title": "Asian Fusion"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": 34.011608,
+        "longitude": -117.886419
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "3646 S Nogales St",
+        "address2": "Ste A",
+        "address3": null,
+        "city": "West Covina",
+        "zip_code": "91792",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "3646 S Nogales St",
+          "Ste A",
+          "West Covina, CA 91792"
+        ]
+      },
+      "phone": "+16266677066",
+      "display_phone": "(626) 667-7066",
+      "distance": 8048.833104611411,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "j-yWHEOMs2NrXmAGhYQjTQ",
+      "alias": "pot-on-fire-chino-ca-chino",
+      "name": "Pot on Fire - Chino, CA",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/peYsF76hQdKusN8c_Sseqg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/pot-on-fire-chino-ca-chino?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 912,
+      "categories": [
+        {
+          "alias": "hotpot",
+          "title": "Hot Pot"
+        },
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        },
+        {
+          "alias": "asianfusion",
+          "title": "Asian Fusion"
+        }
+      ],
+      "rating": 3.8,
+      "coordinates": {
+        "latitude": 34.000068835403994,
+        "longitude": -117.71826781565936
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "3926 Grand Avenue",
+        "address2": "Ste F",
+        "address3": "",
+        "city": "Chino",
+        "zip_code": "91710",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "3926 Grand Avenue",
+          "Ste F",
+          "Chino, CA 91710"
+        ]
+      },
+      "phone": "+19093648688",
+      "display_phone": "(909) 364-8688",
+      "distance": 10065.79437002128,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://thepotonfire.com/menu",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "BDd32io0qi8bxwIsvsP0nw",
+      "alias": "junbi-rowland-heights",
+      "name": "Junbi",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lHqo69_Tuq6cb0kn8ZBc0g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/junbi-rowland-heights?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 732,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        }
+      ],
+      "rating": 4.1,
+      "coordinates": {
+        "latitude": 33.995239751051145,
+        "longitude": -117.89998365276116
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "18558 Gale Ave",
+        "address2": "Ste 106",
+        "address3": "",
+        "city": "Rowland Heights",
+        "zip_code": "91748",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "18558 Gale Ave",
+          "Ste 106",
+          "Rowland Heights, CA 91748"
+        ]
+      },
+      "phone": "+16265062771",
+      "display_phone": "(626) 506-2771",
+      "distance": 10088.559759993293,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "https://junbishop.com/pages/menu",
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "irwT7yX473jCRhTXUVVT8w",
+      "alias": "rad-coffee-covina-3",
+      "name": "Rad Coffee",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oROwMAr3iSoFWG8y0jAH0w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/rad-coffee-covina-3?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 320,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 4.3,
+      "coordinates": {
+        "latitude": 34.08735064242357,
+        "longitude": -117.89032090285409
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "145 N Citrus Ave",
+        "address2": "",
+        "address3": null,
+        "city": "Covina",
+        "zip_code": "91723",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "145 N Citrus Ave",
+          "Covina, CA 91723"
+        ]
+      },
+      "phone": "+16263328122",
+      "display_phone": "(626) 332-8122",
+      "distance": 8522.408249321368,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "dPUGWvPzkizt0B2NZxqHpQ",
+      "alias": "sunright-tea-studio-diamond-bar-3",
+      "name": "Sunright Tea Studio",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mTjtS-lL1V-oPiHu3B45VQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/sunright-tea-studio-diamond-bar-3?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 579,
+      "categories": [
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 33.99819573624615,
+        "longitude": -117.855365
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "20627 Golden Springs Dr",
+        "address2": "Ste 1-R",
+        "address3": null,
+        "city": "Diamond Bar",
+        "zip_code": "91789",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "20627 Golden Springs Dr",
+          "Ste 1-R",
+          "Diamond Bar, CA 91789"
+        ]
+      },
+      "phone": "+19098957699",
+      "display_phone": "(909) 895-7699",
+      "distance": 6887.520254331471,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://snrtea.com/menu/",
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "PffEwVfJLAjgKPy-9mUSFQ",
+      "alias": "pixie-donuts-pomona-2",
+      "name": "Pixie Donuts",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4Ae_bKHIbtyTKFK3PxcI3Q/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/pixie-donuts-pomona-2?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 90,
+      "categories": [
+        {
+          "alias": "donuts",
+          "title": "Donuts"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 4.3,
+      "coordinates": {
+        "latitude": 34.0418519,
+        "longitude": -117.7990689
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "3052 W Temple Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Pomona",
+        "zip_code": "91766",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "3052 W Temple Ave",
+          "Pomona, CA 91766"
+        ]
+      },
+      "phone": "+19096223356",
+      "display_phone": "(909) 622-3356",
+      "distance": 1334.0316577192038,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "lYr0kARLmjEub95gI_OPiw",
+      "alias": "canabru-coffee-chino",
+      "name": "Canabru Coffee",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ke7T7sCbv3Aqg6CsJrK1rg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/canabru-coffee-chino?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 957,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": 33.9895719764787,
+        "longitude": -117.706083169407
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "14521 Ramona Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Chino",
+        "zip_code": "91710",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "14521 Ramona Ave",
+          "Chino, CA 91710"
+        ]
+      },
+      "phone": "+19092712262",
+      "display_phone": "(909) 271-2262",
+      "distance": 11643.604278734587,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "waitlist_reservation": null
+      }
+    },
+    {
+      "id": "bCOaVGrzvKkaW0w-kAx2Tw",
+      "alias": "hide-out-cafe-rowland-heights-2",
+      "name": "Hide Out Cafe",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ggVym2ybnIWzD-04gBUT3w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/hide-out-cafe-rowland-heights-2?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 1161,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        },
+        {
+          "alias": "asianfusion",
+          "title": "Asian Fusion"
+        }
+      ],
+      "rating": 4.1,
+      "coordinates": {
+        "latitude": 33.992678,
+        "longitude": -117.891123
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "18888 Labin Ct",
+        "address2": "Ste C106",
+        "address3": "",
+        "city": "Rowland Heights",
+        "zip_code": "91748",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "18888 Labin Ct",
+          "Ste C106",
+          "Rowland Heights, CA 91748"
+        ]
+      },
+      "phone": "+16269864832",
+      "display_phone": "(626) 986-4832",
+      "distance": 9615.916176198343,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": null,
+        "open24_hours": null,
+        "waitlist_reservation": true
+      }
+    },
+    {
+      "id": "NWkCjtjCPDGqPv0QY5ulaQ",
+      "alias": "revd-up-coffee-and-classics-claremont-3",
+      "name": "Rev'd Up Coffee And Classics",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SnvPeRQnydBT44axXDUiWw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/revd-up-coffee-and-classics-claremont-3?adjust_creative=4seX8myFvWhOWbbOrbiTGg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=4seX8myFvWhOWbbOrbiTGg",
+      "review_count": 384,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "vegan",
+          "title": "Vegan"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": 34.10681,
+        "longitude": -117.71729
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "212 W Foothill Blvd",
+        "address2": null,
+        "address3": "",
+        "city": "Claremont",
+        "zip_code": "91711",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "212 W Foothill Blvd",
+          "Claremont, CA 91711"
+        ]
+      },
+      "phone": "+19094470314",
+      "display_phone": "(909) 447-0314",
+      "distance": 10833.04223756028,
+      "attributes": {
+        "business_temp_closed": null,
+        "menu_url": "http://www.revdupcoffee.com/menu",
+        "open24_hours": null,
+        "waitlist_reservation": null
+      }
+    }
+  ],
+  "total": 458,
+  "region": {
+    "center": {
+      "longitude": -117.8108955,
+      "latitude": 34.0479604
+    }
+  }
+}
