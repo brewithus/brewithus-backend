@@ -75,5 +75,25 @@ def get_reviews(business_id):
     return requests.get(url, headers=headers)
 
 
+# ==== get_details ============================================================
+# Take a business ID and get more details on the cafe, like hours and images.
+#
+# IN
+# business_id: business ID as given in yelp.               string
+# 
+# OUT
+# business details in one JSON                             JSON
+# See sample_details.json for sample output.
+# See sample_yelp_error.json for sample error.
+#
+# NOTES
+# Locale set to en_US only. (not intended for outside US)
+
+def get_details(business_id):
+    url = "https://api.yelp.com/v3/businesses/" + business_id\
+    + "?locale=en_US"
+    
+    return requests.get(url, headers=headers)
+
 
 # end of yelp_cafes.py

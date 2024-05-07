@@ -8,6 +8,7 @@ Here are all function headers for quick reference:
 
 - `def get_cafes(lat, long, userQuery="", isOpen=False)`
 - `def get_reviews(business_id)`
+- `def get_details(business_id)`
 
 More detailed information can be found in the file.
 
@@ -17,11 +18,17 @@ JSON of sample 20 cafes from a `get_cafes` call.\
 Note that it is a JSON of array of `"businesses"`.\
 Equivalent call: `get_cafes("34.0479604", "-117.8108955", "fast", False)`
 
+## `sample_details.json`
+
+JSON of details of a cafe as retrieved from a `get_details` call.\
+Business ID used is first business in `sample_cafes.json`.\
+Equivalent call: `get_details("K-3eiVb-dAkC3ujgnT4QSQ")`
+
 ## `sample_reviews.json`
 
 JSON of sample 3 excerpts from a `get_reviews` call.\
 Business ID used is first business in `sample_cafes.json`.\
-Equivalent call: `get_reviews(K-3eiVb-dAkC3ujgnT4QSQ)`
+Equivalent call: `get_reviews("K-3eiVb-dAkC3ujgnT4QSQ")`
 
 ## `sample_yelp_error.json`
 
