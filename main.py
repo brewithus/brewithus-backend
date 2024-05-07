@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 from comparison.analyze import rank_restaurants
 from yelpfusion.yelp_client import YelpFusionAPI
 from flask_caching import Cache
-from flask_cors import CORS
+from flask_cors import CORS, cross_origin
 
 load_dotenv()
 
@@ -18,7 +18,9 @@ def unprotected_route():
     index_path = os.path.join(app.root_path, 'index.html')
     return send_file(index_path)
 
-CORS(app, resources={r"/*": {"origins": ["https://brewith.us"]}})
+cors = CORS(app, resources={r"/*": {"origins": ["https://brewith.us"]}}, supports_credentials=True)
+
+app.config['CORS_HEADERS'] = 'Content-Type'
 
 cache = Cache(app, config={'CACHE_TYPE': 'simple'})
 
