@@ -84,8 +84,8 @@
         "restaurants_take_out": true,
         "waitlist_reservation": null,
         "wi_fi": "free",
-        "liked_by_vegetarians": null,
         "liked_by_vegans": null,
+        "liked_by_vegetarians": null,
         "outdoor_seating": true,
         "hot_and_new": null
       }
@@ -199,9 +199,9 @@
         "restaurants_take_out": true,
         "waitlist_reservation": null,
         "wi_fi": "no",
-        "liked_by_vegans": null,
         "liked_by_vegetarians": null,
         "outdoor_seating": true,
+        "liked_by_vegans": null,
         "hot_and_new": null
       }
     },
@@ -287,8 +287,8 @@
         "restaurants_take_out": true,
         "waitlist_reservation": null,
         "wi_fi": "free",
-        "outdoor_seating": true,
         "liked_by_vegans": null,
+        "outdoor_seating": true,
         "liked_by_vegetarians": null,
         "hot_and_new": "2024-04-01"
       }
@@ -403,8 +403,8 @@
         "waitlist_reservation": null,
         "wi_fi": "free",
         "liked_by_vegans": null,
-        "outdoor_seating": true,
         "liked_by_vegetarians": null,
+        "outdoor_seating": true,
         "hot_and_new": null
       }
     },
@@ -742,6 +742,119 @@
       }
     },
     {
+      "id": "BkWl3JIHxrkV5hIrwcKduA",
+      "alias": "mcdonalds-pomona-8",
+      "name": "McDonald's",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6hsSrdq3cK3WJIAUhFFkyw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mcdonalds-pomona-8?adjust_creative=r6VX33nwXOpudXpisbQp5w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r6VX33nwXOpudXpisbQp5w",
+      "review_count": 128,
+      "categories": [
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        },
+        {
+          "alias": "burgers",
+          "title": "Burgers"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 1.8,
+      "coordinates": {
+        "latitude": 34.07195076344212,
+        "longitude": -117.789434
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "2145 Murchison Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Pomona",
+        "zip_code": "91768",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "2145 Murchison Ave",
+          "Pomona, CA 91768"
+        ]
+      },
+      "phone": "+19096206669",
+      "display_phone": "(909) 620-6669",
+      "distance": 3320.351289307415,
+      "attributes": {
+        "business_accepts_apple_pay": true,
+        "good_for_working": true,
+        "business_url": "http://www.mcdonalds.com",
+        "about_this_biz_bio_photo_dict": null,
+        "about_this_biz_business_recommendation": [],
+        "business_temp_closed": null,
+        "about_this_biz_bio": null,
+        "about_this_biz_bio_first_name": null,
+        "about_this_biz_bio_last_name": null,
+        "about_this_biz_history": null,
+        "about_this_biz_role": null,
+        "about_this_biz_specialties": null,
+        "about_this_biz_year_established": null,
+        "alcohol": "none",
+        "ambience": {
+          "romantic": false,
+          "intimate": false,
+          "classy": false,
+          "hipster": false,
+          "divey": false,
+          "touristy": false,
+          "trendy": false,
+          "upscale": false,
+          "casual": true
+        },
+        "bike_parking": true,
+        "business_accepts_android_pay": null,
+        "business_accepts_credit_cards": true,
+        "business_parking": {
+          "garage": false,
+          "street": true,
+          "validated": false,
+          "lot": true,
+          "valet": false
+        },
+        "caters": false,
+        "dogs_allowed": null,
+        "drive_thru": true,
+        "good_for_kids": true,
+        "good_for_meal": {
+          "dessert": true,
+          "latenight": true,
+          "lunch": true,
+          "dinner": true,
+          "brunch": false,
+          "breakfast": true
+        },
+        "has_tv": true,
+        "menu_url": "https://www.mcdonalds.com/us/en-us/full-menu.html?cid=PS:GCM_MOP:NB::Yelp:All",
+        "noise_level": "average",
+        "open24_hours": null,
+        "platform_delivery": null,
+        "restaurants_delivery": true,
+        "restaurants_good_for_groups": true,
+        "restaurants_reservations": false,
+        "restaurants_table_service": null,
+        "restaurants_take_out": true,
+        "waitlist_reservation": null,
+        "wi_fi": "free",
+        "liked_by_vegans": null,
+        "outdoor_seating": false,
+        "liked_by_vegetarians": null,
+        "hot_and_new": null
+      }
+    },
+    {
       "id": "ZDrpEvaZKX1-YVLOGXYs4A",
       "alias": "wish-you-were-here-coffee-pomona",
       "name": "Wish You Were Here Coffee",
@@ -831,8 +944,8 @@
         "waitlist_reservation": null,
         "wi_fi": "free",
         "liked_by_vegans": null,
-        "liked_by_vegetarians": null,
         "outdoor_seating": false,
+        "liked_by_vegetarians": null,
         "hot_and_new": null
       }
     },
@@ -942,9 +1055,875 @@
         "restaurants_take_out": true,
         "waitlist_reservation": null,
         "wi_fi": "free",
+        "liked_by_vegans": true,
+        "outdoor_seating": true,
         "liked_by_vegetarians": true,
+        "hot_and_new": null
+      }
+    },
+    {
+      "id": "tvpkDFDDArvZ3AzUXckzUQ",
+      "alias": "bengongs-tea-walnut-walnut",
+      "name": "BenGong's Tea - Walnut",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7yP085wRbITdpBwPmNfbJA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/bengongs-tea-walnut-walnut?adjust_creative=r6VX33nwXOpudXpisbQp5w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r6VX33nwXOpudXpisbQp5w",
+      "review_count": 123,
+      "categories": [
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 4.1,
+      "coordinates": {
+        "latitude": 34.04384156877932,
+        "longitude": -117.8492297
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "1241 N Grand Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Walnut",
+        "zip_code": "91789",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "1241 N Grand Ave",
+          "Walnut, CA 91789"
+        ]
+      },
+      "phone": "+19096127244",
+      "display_phone": "(909) 612-7244",
+      "distance": 3561.485620352209,
+      "attributes": {
+        "business_accepts_android_pay": true,
+        "business_accepts_apple_pay": true,
+        "business_url": "https://www.bengongstea.us",
+        "about_this_biz_bio_photo_dict": null,
+        "about_this_biz_business_recommendation": [],
+        "business_temp_closed": null,
+        "about_this_biz_bio": null,
+        "about_this_biz_bio_first_name": null,
+        "about_this_biz_bio_last_name": null,
+        "about_this_biz_history": "Since our founding in 2015. BenGong's Tea has opened over 700 tea shops globally. We proudly serve original high-quality and innovative tea drinks to our customers in seven countries across three continents.",
+        "about_this_biz_role": null,
+        "about_this_biz_specialties": "High quality products with no artificial flavorings",
+        "about_this_biz_year_established": "2015",
+        "bike_parking": false,
+        "business_accepts_credit_cards": true,
+        "business_parking": {
+          "valet": false,
+          "garage": false,
+          "street": false,
+          "lot": false,
+          "validated": false
+        },
+        "caters": false,
+        "dogs_allowed": true,
+        "drive_thru": false,
+        "good_for_kids": null,
+        "good_for_working": null,
+        "menu_url": "https://www.bengongstea.us/menu",
+        "noise_level": "average",
+        "platform_delivery": true,
+        "restaurants_delivery": true,
+        "restaurants_take_out": true,
+        "waitlist_reservation": null,
+        "wi_fi": "free",
+        "outdoor_seating": false,
+        "hot_and_new": null
+      }
+    },
+    {
+      "id": "Jjcj9VsIeDiTqmEQ1HbEQw",
+      "alias": "bageloo-diamond-bar",
+      "name": "Bageloo",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/U5nFgSCY5FFhCZCpfcEjoQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/bageloo-diamond-bar?adjust_creative=r6VX33nwXOpudXpisbQp5w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r6VX33nwXOpudXpisbQp5w",
+      "review_count": 500,
+      "categories": [
+        {
+          "alias": "bagels",
+          "title": "Bagels"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "bakeries",
+          "title": "Bakeries"
+        }
+      ],
+      "rating": 4.3,
+      "coordinates": {
+        "latitude": 34.00043,
+        "longitude": -117.81049
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "1200 S Diamond Bar Blvd",
+        "address2": "Ste 102",
+        "address3": null,
+        "city": "Diamond Bar",
+        "zip_code": "91765",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "1200 S Diamond Bar Blvd",
+          "Ste 102",
+          "Diamond Bar, CA 91765"
+        ]
+      },
+      "phone": "+19098617456",
+      "display_phone": "(909) 861-7456",
+      "distance": 5285.265597080986,
+      "attributes": {
+        "business_accepts_apple_pay": true,
+        "good_for_working": false,
+        "business_url": "http://bageloo.com",
+        "about_this_biz_bio_photo_dict": null,
+        "about_this_biz_business_recommendation": [],
+        "business_temp_closed": null,
+        "about_this_biz_bio": null,
+        "about_this_biz_bio_first_name": null,
+        "about_this_biz_bio_last_name": null,
+        "about_this_biz_history": "The business first started in Seoul, South Korea 3 years ago. The owners decided to move back to the United States and bring the business with them. It is a family run business with the father and daughter baking bagels, breads and pastries from scratch every morning. The owners’ goal is to create a place where people can come together to eat and be happy.",
+        "about_this_biz_role": null,
+        "about_this_biz_specialties": "House-made bagels, pastries, bread and sandwiches. Premium coffee roastery, serving coffee made from beans roasted in house. Great for breakfast and lunch!",
+        "about_this_biz_year_established": "2018",
+        "bike_parking": false,
+        "business_accepts_android_pay": null,
+        "business_accepts_credit_cards": true,
+        "business_parking": {
+          "garage": false,
+          "street": false,
+          "validated": false,
+          "lot": true,
+          "valet": false
+        },
+        "caters": true,
+        "dogs_allowed": false,
+        "good_for_kids": true,
+        "menu_url": "https://bageloo.com/menu/",
+        "noise_level": "average",
+        "platform_delivery": null,
+        "restaurants_delivery": true,
+        "restaurants_take_out": true,
+        "service_locations_biz_dict": null,
+        "waitlist_reservation": null,
+        "wi_fi": "free",
+        "has_gluten_free": false,
+        "liked_by_vegetarians": null,
         "outdoor_seating": true,
         "liked_by_vegans": true,
+        "hot_and_new": null
+      }
+    },
+    {
+      "id": "xNyEmzWPDrERtMboHwRlVA",
+      "alias": "ginkgo-katsu-diamond-bar",
+      "name": "Ginkgo Katsu",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qkoUPC2g1nC03sfVglLMsA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/ginkgo-katsu-diamond-bar?adjust_creative=r6VX33nwXOpudXpisbQp5w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r6VX33nwXOpudXpisbQp5w",
+      "review_count": 405,
+      "categories": [
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        },
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 4.6,
+      "coordinates": {
+        "latitude": 33.998244,
+        "longitude": -117.843431
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "1131 Brea Canyon Rd",
+        "address2": null,
+        "address3": "",
+        "city": "Diamond Bar",
+        "zip_code": "91789",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "1131 Brea Canyon Rd",
+          "Diamond Bar, CA 91789"
+        ]
+      },
+      "phone": "+19098957808",
+      "display_phone": "(909) 895-7808",
+      "distance": 6287.324058266582,
+      "attributes": {
+        "business_accepts_apple_pay": true,
+        "business_url": "https://ginkgokatsu.com",
+        "about_this_biz_bio_photo_dict": null,
+        "about_this_biz_business_recommendation": [],
+        "business_temp_closed": null,
+        "about_this_biz_bio": null,
+        "about_this_biz_bio_first_name": null,
+        "about_this_biz_bio_last_name": null,
+        "about_this_biz_history": null,
+        "about_this_biz_role": null,
+        "about_this_biz_specialties": "Here at Ginkgo Katsu, our specialty items are our savory katsu and our refreshing teas. We focus on bringing together the best combination of flavors using fresh and tasty ingredients. Other items include rolls, noodles and dessert-- there's something for anyone and everyone to enjoy. Come and experience it yourself!",
+        "about_this_biz_year_established": null,
+        "alcohol": "none",
+        "ambience": null,
+        "bike_parking": null,
+        "business_accepts_android_pay": null,
+        "business_accepts_credit_cards": true,
+        "business_parking": {
+          "valet": false,
+          "garage": false,
+          "street": false,
+          "lot": true,
+          "validated": false
+        },
+        "caters": true,
+        "dogs_allowed": false,
+        "drive_thru": false,
+        "good_for_kids": null,
+        "good_for_meal": null,
+        "good_for_working": null,
+        "happy_hour": null,
+        "has_tv": false,
+        "menu_url": "https://www.ginkgokatsu.com/menu",
+        "noise_level": "average",
+        "open24_hours": null,
+        "platform_delivery": true,
+        "restaurants_delivery": true,
+        "restaurants_good_for_groups": null,
+        "restaurants_reservations": false,
+        "restaurants_table_service": false,
+        "restaurants_take_out": true,
+        "waitlist_reservation": null,
+        "wi_fi": "no",
+        "liked_by_vegans": null,
+        "liked_by_vegetarians": null,
+        "outdoor_seating": false,
+        "hot_and_new": null
+      }
+    },
+    {
+      "id": "js2m97u6JQvqv9UdcNNjTA",
+      "alias": "margin-cafe-diamond-bar",
+      "name": "Margin Cafe",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wophrFJmRvxsFSg7zdjv_w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/margin-cafe-diamond-bar?adjust_creative=r6VX33nwXOpudXpisbQp5w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r6VX33nwXOpudXpisbQp5w",
+      "review_count": 179,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "desserts",
+          "title": "Desserts"
+        }
+      ],
+      "rating": 4.6,
+      "coordinates": {
+        "latitude": 34.0010853740247,
+        "longitude": -117.812742
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "1123 Grand Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Diamond Bar",
+        "zip_code": "91765",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "1123 Grand Ave",
+          "Diamond Bar, CA 91765"
+        ]
+      },
+      "phone": "+19096556047",
+      "display_phone": "(909) 655-6047",
+      "distance": 5215.036405985934,
+      "attributes": {
+        "business_accepts_android_pay": true,
+        "business_accepts_apple_pay": true,
+        "good_for_working": true,
+        "business_url": null,
+        "about_this_biz_bio_photo_dict": {
+          "photo_id": null,
+          "biz_user_id": 10907556
+        },
+        "about_this_biz_business_recommendation": [],
+        "business_temp_closed": null,
+        "about_this_biz_bio": "I've always been a coffee lover and I had to get at least a cup of coffee a day to start my day. But other than my love for coffee, I love art too. It has always been my habit to take a break from whatever was stressing me and take a moment for myself by painting on canvas. I realize that when I'm painting, I forget about all the stresses and worries. I've introduced this method to a few people and they've felt the same way too. It's also a fun activity to do with your friends or family and I had an idea suddenly -\"what if you merge the two?\" The best of both worlds! \n\nCommitted to serving the best, we've tried over 50 single origins and blended coffee to search for the best espresso and pour-overs to feature in our store, our Matcha is also directly shipped from a matcha farm in Japan, and our hot tea selections are exclusively supplied by TWG offering some of the finest tea of the world.",
+        "about_this_biz_bio_first_name": "Charlene",
+        "about_this_biz_bio_last_name": "C",
+        "about_this_biz_history": null,
+        "about_this_biz_role": "Business Owner",
+        "about_this_biz_specialties": "We are the first art jamming cafe in the region that offers art jamming packages affordable for all ages who want to experience acrylic painting. Unlike most studios where there is a trainer teaching everyone to paint the same picture, we encourage creativity and communicating with your soul to create a one-and-only art piece of your own! It's a great activity to do with friends, colleagues, or your partner just to spend the afternoon away and bond over art and coffee! Our pastries are delivered every morning fresh and we are dedicated to serving only the freshest, tastiest coffee and pastries.",
+        "about_this_biz_year_established": null,
+        "bike_parking": true,
+        "business_accepts_credit_cards": true,
+        "business_parking": {
+          "valet": false,
+          "garage": false,
+          "street": false,
+          "lot": false,
+          "validated": false
+        },
+        "caters": true,
+        "dogs_allowed": true,
+        "drive_thru": false,
+        "good_for_kids": null,
+        "menu_url": null,
+        "noise_level": "average",
+        "platform_delivery": true,
+        "restaurants_delivery": false,
+        "restaurants_take_out": true,
+        "waitlist_reservation": null,
+        "wi_fi": "free",
+        "liked_by_vegans": null,
+        "liked_by_vegetarians": null,
+        "outdoor_seating": true,
+        "hot_and_new": null
+      }
+    },
+    {
+      "id": "1T3bx1T8cmW-f_zCh7OuQA",
+      "alias": "thirsty-girl-coffee-pomona",
+      "name": "Thirsty Girl Coffee",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VMe8pce-GbNNugB8Ib9LYQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/thirsty-girl-coffee-pomona?adjust_creative=r6VX33nwXOpudXpisbQp5w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r6VX33nwXOpudXpisbQp5w",
+      "review_count": 148,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 4.8,
+      "coordinates": {
+        "latitude": 34.0585119,
+        "longitude": -117.749454
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "170 E 1st St",
+        "address2": "",
+        "address3": null,
+        "city": "Pomona",
+        "zip_code": "91766",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "170 E 1st St",
+          "Pomona, CA 91766"
+        ]
+      },
+      "phone": "+19096306077",
+      "display_phone": "(909) 630-6077",
+      "distance": 5777.271849035232,
+      "attributes": {
+        "good_for_working": true,
+        "business_url": null,
+        "about_this_biz_bio_photo_dict": null,
+        "about_this_biz_business_recommendation": [],
+        "business_temp_closed": null,
+        "about_this_biz_bio": null,
+        "about_this_biz_bio_first_name": null,
+        "about_this_biz_bio_last_name": null,
+        "about_this_biz_history": null,
+        "about_this_biz_role": null,
+        "about_this_biz_specialties": null,
+        "about_this_biz_year_established": null,
+        "bike_parking": null,
+        "business_accepts_android_pay": null,
+        "business_accepts_apple_pay": null,
+        "business_accepts_credit_cards": null,
+        "business_parking": {
+          "valet": false,
+          "garage": false,
+          "street": false,
+          "lot": true,
+          "validated": false
+        },
+        "caters": null,
+        "dogs_allowed": true,
+        "drive_thru": null,
+        "good_for_kids": null,
+        "menu_url": null,
+        "noise_level": "average",
+        "platform_delivery": null,
+        "restaurants_delivery": true,
+        "restaurants_take_out": true,
+        "waitlist_reservation": null,
+        "wi_fi": "free",
+        "outdoor_seating": null,
+        "hot_and_new": null
+      }
+    },
+    {
+      "id": "nBSAG83PkKGk0-Za0r43ww",
+      "alias": "goomo-tea-shop-walnut-4",
+      "name": "Goomo Tea Shop",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hV9lrUuxseh67qh8O_Rtcg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/goomo-tea-shop-walnut-4?adjust_creative=r6VX33nwXOpudXpisbQp5w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r6VX33nwXOpudXpisbQp5w",
+      "review_count": 177,
+      "categories": [
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        },
+        {
+          "alias": "desserts",
+          "title": "Desserts"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 4.6,
+      "coordinates": {
+        "latitude": 34.0435,
+        "longitude": -117.84888
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "1217 N Grand Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Walnut",
+        "zip_code": "91789",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "1217 N Grand Ave",
+          "Walnut, CA 91789"
+        ]
+      },
+      "phone": "+19095950094",
+      "display_phone": "(909) 595-0094",
+      "distance": 3546.369856794204,
+      "attributes": {
+        "business_accepts_android_pay": true,
+        "business_accepts_apple_pay": true,
+        "business_url": null,
+        "about_this_biz_bio_photo_dict": null,
+        "about_this_biz_business_recommendation": [],
+        "business_temp_closed": null,
+        "about_this_biz_bio": "Thank you for considering our new business for your Drink/Dessert/Snack fit. Expect nothing but a satisfying experience, quick & convenient service and most of all great tasting freshly made food & drinks!",
+        "about_this_biz_bio_first_name": "GOOMO",
+        "about_this_biz_bio_last_name": "G",
+        "about_this_biz_history": "New Business -- As a tenured business owner I am excited to announce the launch of Goottt (goo-tuht) to the Walnut CA and surrounding area.\n\nCheck out this new hidden gem with a calming & modern aesthetic, great tasting drinks and friendly staff. We look forward to serving you soon!",
+        "about_this_biz_role": "Business Owner",
+        "about_this_biz_specialties": "“GOOMO” is a Newest Real Fruit Tea drinks, desserts and snacks shops in City of Walnut, right across from Mt.Sac College. We’re serving high quality Bubble(boba) tea drinks, Coconut Jelly desserts, snowflake crisps, and snacks. All products are Freshly hand-made with REAL & FRESH fruits, ORGANIC fresh milk, milk substitutes to inspire everyone to “Have a goottt day!” with healthier and better quality choices!",
+        "about_this_biz_year_established": "2022",
+        "bike_parking": null,
+        "business_accepts_credit_cards": true,
+        "business_parking": {
+          "valet": false,
+          "garage": false,
+          "street": false,
+          "lot": true,
+          "validated": false
+        },
+        "caters": true,
+        "dogs_allowed": true,
+        "drive_thru": false,
+        "good_for_kids": null,
+        "good_for_working": null,
+        "menu_url": null,
+        "noise_level": "average",
+        "platform_delivery": true,
+        "restaurants_delivery": true,
+        "restaurants_take_out": true,
+        "waitlist_reservation": null,
+        "wi_fi": "free",
+        "liked_by_vegans": null,
+        "liked_by_vegetarians": null,
+        "outdoor_seating": null,
+        "hot_and_new": null
+      }
+    },
+    {
+      "id": "kosvtE7xZfD0vJYj5nGEuA",
+      "alias": "butter-cafe-and-bakery-san-dimas",
+      "name": "Butter Cafe and Bakery",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/naIq6DMSE-c1bF1qVJE9_Q/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/butter-cafe-and-bakery-san-dimas?adjust_creative=r6VX33nwXOpudXpisbQp5w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r6VX33nwXOpudXpisbQp5w",
+      "review_count": 1302,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        },
+        {
+          "alias": "bakeries",
+          "title": "Bakeries"
+        }
+      ],
+      "rating": 3.9,
+      "coordinates": {
+        "latitude": 34.107048136809475,
+        "longitude": -117.79532051345284
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "671 East Bonita Ave",
+        "address2": "Ste F",
+        "address3": "",
+        "city": "San Dimas",
+        "zip_code": "91773",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "671 East Bonita Ave",
+          "Ste F",
+          "San Dimas, CA 91773"
+        ]
+      },
+      "phone": "+19095995381",
+      "display_phone": "(909) 599-5381",
+      "distance": 6725.017551826906,
+      "attributes": {
+        "business_accepts_android_pay": false,
+        "business_accepts_apple_pay": true,
+        "good_for_working": false,
+        "business_url": "http://www.buttercafebakery.com/",
+        "about_this_biz_bio_photo_dict": null,
+        "about_this_biz_business_recommendation": [],
+        "business_temp_closed": null,
+        "about_this_biz_bio": "The concept of friends Ryan Buan and Heather Sulaeman, both Southern California natives who met working at various high end restaurants in LA, Butter Café & Bakery is quickly becoming acclaimed for its high quality food and warm service. With a shared desire to open a local, artisan bakery and café where friends, family and food lovers could come together in a casual atmosphere, Butter gives San Dimas residents a place to experience fresh pastries, specialty coffees and innovative, satisfying comfort foods. Butter is all about spreading goodness.\n\nHeather and Ryan strive to provide every guest that visits Butter an inviting, delectable, comforting experience. Both have a passion for cooking, hiking, exploring the outdoors and of course, comfort foods such as mac and cheese and traditional bacon and egg breakfasts. Be sure to say hi to Ryan and Heather on your next visit to Butter.",
+        "about_this_biz_bio_first_name": "Ryan",
+        "about_this_biz_bio_last_name": "B",
+        "about_this_biz_history": "Butter is a new kind of local café and bakery that combines the owners' favorite foodie experiences with comfort, drawing inspiration from the region's bountiful produce, diverse culture and unique vibe. Butter offers a warm atmosphere to settle in for a cup of specialty coffee and an artisan pastry or one of our heartier breakfast specials to start your day. Our gourmet sandwiches, large fresh salads and comfort food centered lunches are perfect for a quick break from the office or a more leisurely meal with friends and family.",
+        "about_this_biz_role": "Business Owner",
+        "about_this_biz_specialties": "Butter is a restaurant that combines the owners' favorite foodie experiences with comfort, drawing inspiration from the region's bountiful produce, diverse culture and unique vibe. Butter offers a warm atmosphere to settle in for a cup of specialty coffee and an artisan pastry or one of our heartier breakfast specials to start your day. Our gourmet sandwiches, large fresh salads and comfort food centered lunches are perfect for a quick break from the office or a more leisurely meal with friends and family.\n\nFresh pastries and bread are baked from scratch every day and include the best croissants in Southern California. The pastries change based on seasonal ingredients as well as the culinary team's whim, but are always a treat.\n\nButter's specialty coffee is from the finest roasters in the west. Temple Coffee Roasters, Stumptown, and Austin-based Cuvée Coffee Roasters are known for exceptional coffee and Butter is proud to serve the best tasting coffee and espresso in town.\n\nWhether you want classic bakery fare or a culinary adventure, Butter Café & Bakery will quickly become your favorite neighborhood spot.",
+        "about_this_biz_year_established": "2015",
+        "alcohol": "beer_and_wine",
+        "ambience": {
+          "touristy": false,
+          "hipster": false,
+          "romantic": false,
+          "divey": false,
+          "intimate": false,
+          "trendy": true,
+          "upscale": false,
+          "classy": true,
+          "casual": true
+        },
+        "bike_parking": true,
+        "business_accepts_credit_cards": true,
+        "business_parking": {
+          "garage": false,
+          "street": false,
+          "validated": false,
+          "lot": true,
+          "valet": false
+        },
+        "caters": true,
+        "dogs_allowed": true,
+        "good_for_kids": true,
+        "good_for_meal": {
+          "dessert": false,
+          "latenight": false,
+          "lunch": true,
+          "dinner": false,
+          "brunch": true,
+          "breakfast": true
+        },
+        "happy_hour": false,
+        "has_tv": false,
+        "menu_url": null,
+        "noise_level": "average",
+        "open24_hours": null,
+        "platform_delivery": true,
+        "restaurants_delivery": true,
+        "restaurants_good_for_groups": true,
+        "restaurants_reservations": false,
+        "restaurants_table_service": false,
+        "restaurants_take_out": true,
+        "service_locations_biz_dict": null,
+        "waitlist_reservation": false,
+        "wi_fi": "no",
+        "outdoor_seating": true,
+        "has_gluten_free": true,
+        "liked_by_vegans": true,
+        "liked_by_vegetarians": null,
+        "hot_and_new": null
+      }
+    },
+    {
+      "id": "YzjiB79v88QfzDCMopNGcw",
+      "alias": "dago-taiwanese-restaurant-chino-hills-chino-hills-2",
+      "name": "Dago Taiwanese Restaurant- Chino Hills ",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/raO-w14n8gqvdwig-qm6oQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/dago-taiwanese-restaurant-chino-hills-chino-hills-2?adjust_creative=r6VX33nwXOpudXpisbQp5w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r6VX33nwXOpudXpisbQp5w",
+      "review_count": 385,
+      "categories": [
+        {
+          "alias": "taiwanese",
+          "title": "Taiwanese"
+        },
+        {
+          "alias": "noodles",
+          "title": "Noodles"
+        },
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        }
+      ],
+      "rating": 3.9,
+      "coordinates": {
+        "latitude": 34.0143702,
+        "longitude": -117.7447649
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "13089 Peyton Dr",
+        "address2": "Ste I",
+        "address3": "",
+        "city": "Chino Hills",
+        "zip_code": "91709",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "13089 Peyton Dr",
+          "Ste I",
+          "Chino Hills, CA 91709"
+        ]
+      },
+      "phone": "+19095483246",
+      "display_phone": "(909) 548-3246",
+      "distance": 7184.228642115094,
+      "attributes": {
+        "business_accepts_apple_pay": false,
+        "business_url": "",
+        "about_this_biz_bio_photo_dict": null,
+        "about_this_biz_business_recommendation": [],
+        "business_temp_closed": null,
+        "about_this_biz_bio": null,
+        "about_this_biz_bio_first_name": null,
+        "about_this_biz_bio_last_name": null,
+        "about_this_biz_history": null,
+        "about_this_biz_role": null,
+        "about_this_biz_specialties": null,
+        "about_this_biz_year_established": null,
+        "alcohol": "none",
+        "ambience": {
+          "divey": false,
+          "hipster": false,
+          "casual": true,
+          "touristy": false,
+          "trendy": null,
+          "intimate": false,
+          "romantic": false,
+          "classy": true,
+          "upscale": false
+        },
+        "bike_parking": true,
+        "business_accepts_android_pay": null,
+        "business_accepts_credit_cards": true,
+        "business_parking": {
+          "garage": true,
+          "street": false,
+          "validated": true,
+          "lot": false,
+          "valet": false
+        },
+        "caters": false,
+        "dogs_allowed": false,
+        "drive_thru": false,
+        "good_for_kids": true,
+        "good_for_meal": {
+          "dessert": true,
+          "latenight": null,
+          "lunch": true,
+          "dinner": true,
+          "brunch": null,
+          "breakfast": null
+        },
+        "happy_hour": false,
+        "has_tv": false,
+        "menu_url": null,
+        "noise_level": "average",
+        "open24_hours": null,
+        "platform_delivery": null,
+        "restaurants_delivery": true,
+        "restaurants_good_for_groups": true,
+        "restaurants_reservations": false,
+        "restaurants_table_service": true,
+        "restaurants_take_out": true,
+        "waitlist_reservation": null,
+        "wi_fi": "no",
+        "liked_by_vegans": true,
+        "liked_by_vegetarians": null,
+        "outdoor_seating": false,
+        "hot_and_new": null
+      }
+    },
+    {
+      "id": "dVuKCUPHoZkGX7_s_fQ9RQ",
+      "alias": "mcdonalds-walnut",
+      "name": "McDonald's",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PAZ2DZo1QNRQ6sDCD0ux4A/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mcdonalds-walnut?adjust_creative=r6VX33nwXOpudXpisbQp5w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r6VX33nwXOpudXpisbQp5w",
+      "review_count": 236,
+      "categories": [
+        {
+          "alias": "burgers",
+          "title": "Burgers"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 2,
+      "coordinates": {
+        "latitude": 34.028495,
+        "longitude": -117.835881
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "528 Grand Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Walnut",
+        "zip_code": "91789",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "528 Grand Ave",
+          "Walnut, CA 91789"
+        ]
+      },
+      "phone": "+19095986566",
+      "display_phone": "(909) 598-6566",
+      "distance": 3159.9323173736057,
+      "attributes": {
+        "business_accepts_apple_pay": true,
+        "good_for_working": true,
+        "business_url": "http://www.mcdonalds.com",
+        "about_this_biz_bio_photo_dict": null,
+        "about_this_biz_business_recommendation": [],
+        "business_temp_closed": null,
+        "about_this_biz_bio": null,
+        "about_this_biz_bio_first_name": null,
+        "about_this_biz_bio_last_name": null,
+        "about_this_biz_history": null,
+        "about_this_biz_role": null,
+        "about_this_biz_specialties": null,
+        "about_this_biz_year_established": null,
+        "alcohol": "none",
+        "ambience": {
+          "romantic": false,
+          "intimate": false,
+          "touristy": false,
+          "hipster": false,
+          "divey": false,
+          "classy": false,
+          "trendy": false,
+          "upscale": false,
+          "casual": true
+        },
+        "bike_parking": true,
+        "business_accepts_android_pay": null,
+        "business_accepts_credit_cards": true,
+        "business_parking": {
+          "garage": false,
+          "street": false,
+          "validated": false,
+          "lot": true,
+          "valet": false
+        },
+        "caters": false,
+        "dogs_allowed": false,
+        "drive_thru": true,
+        "good_for_kids": true,
+        "good_for_meal": {
+          "dessert": true,
+          "latenight": true,
+          "lunch": true,
+          "dinner": true,
+          "brunch": false,
+          "breakfast": true
+        },
+        "has_tv": true,
+        "menu_url": "https://www.mcdonalds.com/us/en-us/full-menu.html?cid=PS:GCM_MOP:NB::Yelp:All",
+        "noise_level": "average",
+        "open24_hours": null,
+        "platform_delivery": null,
+        "restaurants_delivery": true,
+        "restaurants_good_for_groups": true,
+        "restaurants_reservations": false,
+        "restaurants_table_service": null,
+        "restaurants_take_out": true,
+        "waitlist_reservation": null,
+        "wi_fi": "free",
+        "liked_by_vegans": null,
+        "liked_by_vegetarians": null,
+        "outdoor_seating": false,
         "hot_and_new": null
       }
     }

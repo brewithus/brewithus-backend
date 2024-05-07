@@ -12,12 +12,14 @@ headers = {
 
 
 # ==== get_cafes ==============================================================
-# Take parameters and return 10 cafes that fit the requirements.
+# Take parameters and return 20 cafes that fit the requirements.
 #
 # IN
 # lat, long: latitude & longitude of location.             floats as strings
 # (optional) userQuery: user's search term.                string
-# (optional) isOpen: only get cafes open right now.        boolean
+# (optional) isOpen: only get cafes open right now         boolean (True)
+#                    OR
+#                    only get cafes open at given time     integer (Unix time)
 #
 # OUT
 # array of businesses OR error                             JSON
@@ -29,7 +31,7 @@ headers = {
 # Search radius is set to 12000m (7.46 miles).
 # Locale set to en_US only. (not intended for outside US)
 # Sort by best match.
-# Only up to 10 results will be given.
+# Only up to 20 results will be given.
 # Only return businesses with 1+ reviews.
 
 def get_cafes(lat, long, userQuery="", isOpen=False):
@@ -38,12 +40,17 @@ def get_cafes(lat, long, userQuery="", isOpen=False):
     + "&term=" + userQuery\
     + "&radius=12000&categories=coffee&categories=tea&categories=bubbletea&locale=en_US"
     
-    if isOpen:
-        url = url + "&open_now=true"
+    if isinstance(isOpen, bool):
+        if isOpen:
+            url = url + "&open_now=true"
+    else:
+        url = url + "&open_at=" + str(isOpen)
+    # end if-else
     
-    url = url + "&sort_by=best_match&limit=10"
+    url = url + "&sort_by=best_match&limit=20"
     
     return requests.get(url, headers=headers)
+
 
 # ==== get_reviews ============================================================
 # Take a business ID and return 3 excerpts of reviews.
@@ -66,6 +73,7 @@ def get_reviews(business_id):
     + "/reviews?locale=en_US&limit=50&sort_by=yelp_sort"
     
     return requests.get(url, headers=headers)
-# =============================================================================
+
+
 
 # end of yelp_cafes.py

@@ -13,8 +13,8 @@ More detailed information can be found in the file.
 
 ## `sample_cafes.json`
 
-JSON of sample 10 cafes from a `get_cafes` call.\
-Note that it is a JSON of array of 10 `"businesses"`.\
+JSON of sample 20 cafes from a `get_cafes` call.\
+Note that it is a JSON of array of `"businesses"`.\
 Equivalent call: `get_cafes("34.0479604", "-117.8108955", "fast", False)`
 
 ## `sample_reviews.json`
