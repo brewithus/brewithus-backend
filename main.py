@@ -1,5 +1,5 @@
 import os
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request, send_file
 from dotenv import load_dotenv
 from comparison.analyze import rank_restaurants
 from yelpfusion.yelp_client import YelpFusionAPI
@@ -12,6 +12,12 @@ api_key = os.getenv("YELP_API_KEY")
 yelp_api = YelpFusionAPI(api_key)
 
 app = Flask(__name__)
+
+@app.route('/', methods=['GET'])
+def unprotected_route():
+    index_path = os.path.join(app.root_path, 'index.html')
+    return send_file(index_path)
+
 CORS(app, resources={r"/*": {"origins": ["http://localhost:3000", "https://brewith.us"]}})
 
 cache = Cache(app, config={'CACHE_TYPE': 'simple'})
