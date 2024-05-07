@@ -1,5 +1,6 @@
 import random
 from utility import *
+from flask import Flask, jsonify, request
 
 def compare_query_restaurant(query_string, restaurant_string):
     return chat(
@@ -45,18 +46,37 @@ def rank_restaurants(query, restaurants):
 def get_score_obj(obj):
     return obj['score']
 
+app = Flask(__name__)
+
+@app.route('/api/business', methods=['GET'])
+def get_restaurants():
+    # Get parameters from query string
+    query = request.args.get('q')
+    lat = request.args.get('lat')
+    lng = request.args.get('lng')
+    # Rank businesses near lat lng based on query
+
+    # get_cafes function
+    cafes = get_cafes(lat, lng, query)
+
+    # rank cafes
+    ranked_cafes = rank_restaurants(query, cafes)
+
+    # send jsonified ranked cafes
+    # return whole business object
+    return jsonify(ranked_cafes)
+
+
+@app.route('/api/business/popular', methods=['GET'])
+def get_restaurants():
+    # Get parameters from query string
+    lat = request.args.get('lat')
+    lng = request.args.get('lng')
+    # Return most popular businesses
+
+    # get_popular_afes function
+    # return whole business object
+    return jsonify(get_popular_cafes(lat, lng))
+
 if __name__ == '__main__':
-
-    rests = get_restaurant_data() # restaurant_string_from_object to get string description
-
-    user_input = ''
-    while True:
-        print('Enter your query, type "END" to end the loop')
-        user_input = input()
-        if user_input == 'END': break
-        print('Query:', user_input)
-        ranked = rank_restaurants(user_input, rests)
-        for r in ranked:
-            print(r['name'], ' - ', r['score'])
-
-    print(find_score_in_json('score: 54'))
+    app.run()
