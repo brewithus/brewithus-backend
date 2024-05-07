@@ -1,0 +1,16 @@
+version: "3"
+
+services:
+  flaskapp:
+    build: .
+    volumes:
+      - .:/app
+    ports:
+      - "5050:5050"
+    networks:
+      - backend
+
+networks:
+  backend:
+    name: brewithus
+    driver: bridge

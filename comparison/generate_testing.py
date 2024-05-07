@@ -1,6 +1,6 @@
 
-from utility import chat, parse_json_string
-from utility import save_variable_to_file
+from comparison.utility import chat, parse_json_string
+from comparison.utility import save_variable_to_file
 import random
 
 # descriptors used to generate random testing data by seeding the prompt randomly
@@ -45,7 +45,7 @@ DESCRIPTORS = [
     "Average prices",
     "Satisfactory cleanliness",
     "Accessible facilities",
-     "Decent menu selection",
+    "Decent menu selection",
     "Fair pricing",
     "Clean facilities",
     "Comfortable seating arrangements",
@@ -101,7 +101,7 @@ def get_random_descriptors(n = 3):
         descriptors.append(descriptor)
 
 def get_prompt(descriptors):
-    
+    pass
 
 # generate random cafes
 def get_random_data(n = 100):

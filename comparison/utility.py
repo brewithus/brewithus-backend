@@ -1,9 +1,11 @@
-import csv
 import datetime
 import re
 from openai import OpenAI
 import json
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 def read_file(file_path):
     try:
@@ -18,7 +20,7 @@ def read_file(file_path):
         return None
 
 API_KEY = {
-    "nick": "sk-proj-t2U9wT3sqbfXNunqLXLbT3BlbkFJsOB54HEqfEaluM0u1utd"
+    "nick": os.getenv("OPENAI_API_KEY")
 }
 
 API_KEY_USE = 'nick'
