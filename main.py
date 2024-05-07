@@ -18,7 +18,7 @@ def unprotected_route():
     index_path = os.path.join(app.root_path, 'index.html')
     return send_file(index_path)
 
-CORS(app, resources={r"/*": {"origins": ["http://localhost:3000", "https://brewith.us"]}})
+CORS(app, resources={r"/*": {"origins": ["https://brewith.us"]}})
 
 cache = Cache(app, config={'CACHE_TYPE': 'simple'})
 
@@ -87,5 +87,7 @@ def get_business_details(business_id):
 #     # return whole business object
 #     return jsonify(get_popular_cafes(lat, lng))
 
+NODE_ENV = os.getenv("NODE_ENV", "dev")
+
 if __name__ == '__main__':
-    app.run(host="0.0.0.0",port=5050,debug=True)
+    app.run(host="0.0.0.0",port=5050,debug=NODE_ENV=="dev")
