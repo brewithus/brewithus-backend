@@ -13,19 +13,19 @@ More detailed information can be found in the file.
 
 ## `sample_cafes.json`
 
-JSON of sample 10 cafes from a `get_cafes` call.\n
-Note that it is a JSON of array of 10 `"businesses"`.\n
+JSON of sample 10 cafes from a `get_cafes` call.\
+Note that it is a JSON of array of 10 `"businesses"`.\
 Equivalent call: `get_cafes("34.0479604", "-117.8108955", "fast", False)`
 
 ## `sample_reviews.json`
 
-JSON of sample 3 excerpts from a `get_reviews` call.\n
-Business ID used is first business in `sample_cafes.json`.\n
+JSON of sample 3 excerpts from a `get_reviews` call.\
+Business ID used is first business in `sample_cafes.json`.\
 Equivalent call: `get_reviews(K-3eiVb-dAkC3ujgnT4QSQ)`
 
 ## `sample_yelp_error.json`
 
-A sample error as JSON returned by Yelp instead of intended output.\n
+A sample error as JSON returned by Yelp instead of intended output.\
 This specific error is response 400, bad/invalid request.
 
 Possible responses from Yelp:
