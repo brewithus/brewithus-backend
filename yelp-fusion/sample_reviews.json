@@ -1,0 +1,47 @@
+{
+  "reviews": [
+    {
+      "id": "reSXts0NS85gEbXvrTPfZQ",
+      "url": "https://www.yelp.com/biz/nobibi-ice-cream-and-tea-pomona?adjust_creative=r6VX33nwXOpudXpisbQp5w&hrid=reSXts0NS85gEbXvrTPfZQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=r6VX33nwXOpudXpisbQp5w",
+      "text": "There are a variety of flavors, I loved the food, and there is a good ambiance going on!",
+      "rating": 5,
+      "time_created": "2024-04-16 14:53:50",
+      "user": {
+        "id": "4w_CXj34oBHm0PqfAbKyjA",
+        "profile_url": "https://www.yelp.com/user_details?userid=4w_CXj34oBHm0PqfAbKyjA",
+        "image_url": null,
+        "name": "Yesenia V."
+      }
+    },
+    {
+      "id": "thgUVETqipl_FJ8oNvcnUA",
+      "url": "https://www.yelp.com/biz/nobibi-ice-cream-and-tea-pomona?adjust_creative=r6VX33nwXOpudXpisbQp5w&hrid=thgUVETqipl_FJ8oNvcnUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=r6VX33nwXOpudXpisbQp5w",
+      "text": "Best Boba and ice cream spot. Very friendly staff, so very welcoming and helpful. Very  aesthetic place, many picture opportunities.",
+      "rating": 5,
+      "time_created": "2024-04-06 16:14:41",
+      "user": {
+        "id": "XbbRDM15WEXeMlsvbgc-hA",
+        "profile_url": "https://www.yelp.com/user_details?userid=XbbRDM15WEXeMlsvbgc-hA",
+        "image_url": null,
+        "name": "brooklynn v."
+      }
+    },
+    {
+      "id": "bpYc8trDXDC6kq4YZeXOag",
+      "url": "https://www.yelp.com/biz/nobibi-ice-cream-and-tea-pomona?adjust_creative=r6VX33nwXOpudXpisbQp5w&hrid=bpYc8trDXDC6kq4YZeXOag&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=r6VX33nwXOpudXpisbQp5w",
+      "text": "cute place to enjoy yummy boba !! Great service and overall quality of the food is amazing.",
+      "rating": 5,
+      "time_created": "2024-04-16 14:36:54",
+      "user": {
+        "id": "LRn4-lS2TH1YVEl3uBxjXQ",
+        "profile_url": "https://www.yelp.com/user_details?userid=LRn4-lS2TH1YVEl3uBxjXQ",
+        "image_url": null,
+        "name": "Yesenia R."
+      }
+    }
+  ],
+  "total": 90,
+  "possible_languages": [
+    "en"
+  ]
+}

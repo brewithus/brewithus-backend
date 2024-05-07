@@ -1,0 +1,959 @@
+{
+  "businesses": [
+    {
+      "id": "K-3eiVb-dAkC3ujgnT4QSQ",
+      "alias": "nobibi-ice-cream-and-tea-pomona",
+      "name": "Nobibi Ice Cream & Tea",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9Hq6bKZLWq3hWN4HsEeSsA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/nobibi-ice-cream-and-tea-pomona?adjust_creative=r6VX33nwXOpudXpisbQp5w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r6VX33nwXOpudXpisbQp5w",
+      "review_count": 90,
+      "categories": [
+        {
+          "alias": "icecream",
+          "title": "Ice Cream & Frozen Yogurt"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        }
+      ],
+      "rating": 4.8,
+      "coordinates": {
+        "latitude": 34.04863361429603,
+        "longitude": -117.81060003243655
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "3560 W Temple Ave",
+        "address2": "Ste D",
+        "address3": "",
+        "city": "Pomona",
+        "zip_code": "91768",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "3560 W Temple Ave",
+          "Ste D",
+          "Pomona, CA 91768"
+        ]
+      },
+      "phone": "+19098957192",
+      "display_phone": "(909) 895-7192",
+      "distance": 79.65394970996343,
+      "attributes": {
+        "business_url": "https://nobibi.com",
+        "about_this_biz_bio_photo_dict": null,
+        "about_this_biz_business_recommendation": [],
+        "business_temp_closed": null,
+        "about_this_biz_bio": null,
+        "about_this_biz_bio_first_name": null,
+        "about_this_biz_bio_last_name": null,
+        "about_this_biz_history": "We are Nobibi, and we love ice cream, and we love serving it to people who love it too.\nOur mission is to make sure that everyone can enjoy handcrafted frozen treats made from Fresh fruit and the finest ice cream in a boutique setting - and that's what we do best at Nobibi.\nWe believe that ice cream should be a party, and we take pride in creating imaginative flavors that taste as tantalizing as they look. We want your visit to be an adventure - from the moment you walk through the door until the last lick of your cone.\nWe’ll make sure every bite of our creamy creations keep you coming back for more!",
+        "about_this_biz_role": null,
+        "about_this_biz_specialties": "Soft Gelato Ice Cream (Vanilla, Black Sesame, Matcha, Ube and change seasonally)\nSpecial item: 24K Edible Gold Foil, Black Ninja, Mini Cloud Dream Cloud and Eggpuff ice cream. \nSpecialty drinks such as sparkling fruit crush, fresh fruit slush, master milk tea, blended fresh milk, fresh fruit tea, falcons whipped coffee",
+        "about_this_biz_year_established": "2020",
+        "bike_parking": false,
+        "business_accepts_android_pay": null,
+        "business_accepts_apple_pay": null,
+        "business_accepts_credit_cards": true,
+        "business_parking": {
+          "valet": false,
+          "garage": false,
+          "street": true,
+          "lot": false,
+          "validated": false
+        },
+        "caters": true,
+        "dogs_allowed": false,
+        "drive_thru": false,
+        "good_for_kids": null,
+        "good_for_working": null,
+        "menu_url": null,
+        "noise_level": "average",
+        "platform_delivery": null,
+        "restaurants_delivery": true,
+        "restaurants_take_out": true,
+        "waitlist_reservation": null,
+        "wi_fi": "free",
+        "liked_by_vegetarians": null,
+        "liked_by_vegans": null,
+        "outdoor_seating": true,
+        "hot_and_new": null
+      }
+    },
+    {
+      "id": "WTVLFNZ_OiQT9umy5rApCQ",
+      "alias": "clearwater-bagel-walnut",
+      "name": "Clearwater Bagel",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/G0N_jBUuLhYNSoG6EYvHKw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/clearwater-bagel-walnut?adjust_creative=r6VX33nwXOpudXpisbQp5w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r6VX33nwXOpudXpisbQp5w",
+      "review_count": 423,
+      "categories": [
+        {
+          "alias": "bagels",
+          "title": "Bagels"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": 34.04282964742507,
+        "longitude": -117.85036731741056
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "20747 Amar Rd",
+        "address2": "Ste 1",
+        "address3": "",
+        "city": "Walnut",
+        "zip_code": "91789",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "20747 Amar Rd",
+          "Ste 1",
+          "Walnut, CA 91789"
+        ]
+      },
+      "phone": "+19095984332",
+      "display_phone": "(909) 598-4332",
+      "distance": 3681.228198348547,
+      "attributes": {
+        "business_accepts_android_pay": true,
+        "business_accepts_apple_pay": true,
+        "good_for_working": false,
+        "business_url": "",
+        "about_this_biz_bio_photo_dict": null,
+        "about_this_biz_business_recommendation": [],
+        "business_temp_closed": null,
+        "about_this_biz_bio": null,
+        "about_this_biz_bio_first_name": null,
+        "about_this_biz_bio_last_name": null,
+        "about_this_biz_history": "We are a family owned NewYork style water bagel shop everything is made from scratch and baked fresh daily. We offer 23 varieties of flavored bagels for you to choose from and everything is made with fresh ingredients. Our most popular item will be the breakfast sandwiches and the open faced classic lox and bagel.We appreciate your business and look forward to serving you in the future. Thank you for shopping small.",
+        "about_this_biz_role": null,
+        "about_this_biz_specialties": "•New York style bagels made fresh daily\n•tasty homemade flavored cream cheese. •Breakfast bagel \n•Bagel sandwiches \n•Drink ,coffee, tea \n• Dippin’dots ice cream \n\nFor more pictures and live updates check us out through Instagram @clearwaterbagel  ( walnut ) \n\nWe cannot provide large quantities from our single bagel section as we have to accommodate all other customers throughout the day. If you have an order of 6 or more bagels, please kindly pre-order one day in advance by calling us at 909-598-4332. Thank you for your understanding and support . We look forward to serving you!",
+        "about_this_biz_year_established": "1995",
+        "alcohol": "none",
+        "ambience": {
+          "touristy": false,
+          "hipster": false,
+          "romantic": false,
+          "divey": false,
+          "intimate": false,
+          "trendy": false,
+          "upscale": false,
+          "classy": true,
+          "casual": false
+        },
+        "bike_parking": true,
+        "business_accepts_credit_cards": true,
+        "business_parking": {
+          "garage": false,
+          "street": false,
+          "validated": false,
+          "lot": false,
+          "valet": false
+        },
+        "caters": true,
+        "dogs_allowed": true,
+        "drive_thru": false,
+        "good_for_kids": true,
+        "good_for_meal": {
+          "dessert": false,
+          "latenight": false,
+          "lunch": false,
+          "dinner": false,
+          "brunch": false,
+          "breakfast": false
+        },
+        "happy_hour": false,
+        "has_tv": false,
+        "menu_url": null,
+        "noise_level": "quiet",
+        "open24_hours": null,
+        "platform_delivery": null,
+        "restaurants_delivery": true,
+        "restaurants_good_for_groups": null,
+        "restaurants_reservations": false,
+        "restaurants_table_service": false,
+        "restaurants_take_out": true,
+        "waitlist_reservation": null,
+        "wi_fi": "no",
+        "liked_by_vegans": null,
+        "liked_by_vegetarians": null,
+        "outdoor_seating": true,
+        "hot_and_new": null
+      }
+    },
+    {
+      "id": "MSUubw0QI97mJlgR8Z6HXQ",
+      "alias": "picnic-time-cafe-walnut-2",
+      "name": "Picnic Time Cafe",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PvbVKPxfuhBUWYJHiXigUA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/picnic-time-cafe-walnut-2?adjust_creative=r6VX33nwXOpudXpisbQp5w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r6VX33nwXOpudXpisbQp5w",
+      "review_count": 15,
+      "categories": [
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        },
+        {
+          "alias": "seafood",
+          "title": "Seafood"
+        },
+        {
+          "alias": "raw_food",
+          "title": "Live/Raw Food"
+        }
+      ],
+      "rating": 4.7,
+      "coordinates": {
+        "latitude": 34.04317,
+        "longitude": -117.84993
+      },
+      "transactions": [],
+      "location": {
+        "address1": "20747 Amar Rd",
+        "address2": "Unit 8C",
+        "address3": "",
+        "city": "Walnut",
+        "zip_code": "91789",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "20747 Amar Rd",
+          "Unit 8C",
+          "Walnut, CA 91789"
+        ]
+      },
+      "phone": "+17142705295",
+      "display_phone": "(714) 270-5295",
+      "distance": 3662.3567788449795,
+      "attributes": {
+        "business_url": "http://www.picnictime778.com",
+        "about_this_biz_bio_photo_dict": null,
+        "about_this_biz_business_recommendation": [],
+        "business_temp_closed": null,
+        "about_this_biz_bio": null,
+        "about_this_biz_bio_first_name": null,
+        "about_this_biz_bio_last_name": null,
+        "about_this_biz_history": null,
+        "about_this_biz_role": null,
+        "about_this_biz_specialties": "The place you want to go everyday! Asian snacks are the best! ",
+        "about_this_biz_year_established": null,
+        "alcohol": "none",
+        "ambience": null,
+        "bike_parking": null,
+        "business_accepts_android_pay": null,
+        "business_accepts_apple_pay": null,
+        "business_accepts_credit_cards": true,
+        "business_parking": null,
+        "caters": null,
+        "dogs_allowed": null,
+        "drive_thru": false,
+        "good_for_kids": null,
+        "good_for_meal": null,
+        "happy_hour": null,
+        "has_tv": false,
+        "menu_url": "https://www.picnictime778.com/menu/",
+        "noise_level": null,
+        "open24_hours": null,
+        "platform_delivery": null,
+        "restaurants_delivery": null,
+        "restaurants_good_for_groups": null,
+        "restaurants_reservations": null,
+        "restaurants_table_service": false,
+        "restaurants_take_out": true,
+        "waitlist_reservation": null,
+        "wi_fi": "free",
+        "outdoor_seating": true,
+        "liked_by_vegans": null,
+        "liked_by_vegetarians": null,
+        "hot_and_new": "2024-04-01"
+      }
+    },
+    {
+      "id": "sQcKe69dfH46fBYl0Hwslg",
+      "alias": "sugar-rush-cafe-walnut",
+      "name": "Sugar Rush Cafe",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8Y4hL-JUin6iXYcv_kGl7Q/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/sugar-rush-cafe-walnut?adjust_creative=r6VX33nwXOpudXpisbQp5w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r6VX33nwXOpudXpisbQp5w",
+      "review_count": 988,
+      "categories": [
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "tradamerican",
+          "title": "American"
+        }
+      ],
+      "rating": 3.8,
+      "coordinates": {
+        "latitude": 34.0401610088164,
+        "longitude": -117.820527729452
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "3900 Valley Blvd",
+        "address2": "Ste A",
+        "address3": "",
+        "city": "Walnut",
+        "zip_code": "91789",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "3900 Valley Blvd",
+          "Ste A",
+          "Walnut, CA 91789"
+        ]
+      },
+      "phone": "+19098697969",
+      "display_phone": "(909) 869-7969",
+      "distance": 1240.867356174082,
+      "attributes": {
+        "business_accepts_apple_pay": false,
+        "good_for_working": false,
+        "business_url": "https://www.sugarrushcafe.com",
+        "about_this_biz_bio_photo_dict": null,
+        "about_this_biz_business_recommendation": [],
+        "business_temp_closed": null,
+        "about_this_biz_bio": null,
+        "about_this_biz_bio_first_name": null,
+        "about_this_biz_bio_last_name": null,
+        "about_this_biz_history": "A small family owned business.",
+        "about_this_biz_role": null,
+        "about_this_biz_specialties": "Exclusively serving Intelligentsia coffee organic teas, specialty coffee, espresso, sandwiches, breakfast, salads, and Free Wi-Fi. \n\nOur cafe is your neighborhood place to meet your friends and family. \n\nSpecial hours: We are closed on Tuesday . \n\nCome in for a drink and relax with us!",
+        "about_this_biz_year_established": "2009",
+        "alcohol": "none",
+        "ambience": {
+          "touristy": false,
+          "hipster": false,
+          "romantic": false,
+          "divey": false,
+          "intimate": false,
+          "trendy": false,
+          "upscale": false,
+          "classy": true,
+          "casual": true
+        },
+        "bike_parking": false,
+        "business_accepts_android_pay": null,
+        "business_accepts_credit_cards": true,
+        "business_parking": {
+          "garage": false,
+          "street": false,
+          "validated": false,
+          "lot": true,
+          "valet": false
+        },
+        "caters": false,
+        "dogs_allowed": false,
+        "drive_thru": null,
+        "good_for_kids": true,
+        "good_for_meal": {
+          "dessert": false,
+          "latenight": false,
+          "lunch": true,
+          "dinner": false,
+          "brunch": true,
+          "breakfast": true
+        },
+        "happy_hour": false,
+        "has_tv": false,
+        "menu_url": null,
+        "noise_level": "average",
+        "open24_hours": null,
+        "platform_delivery": null,
+        "restaurants_delivery": false,
+        "restaurants_good_for_groups": true,
+        "restaurants_reservations": false,
+        "restaurants_table_service": true,
+        "restaurants_take_out": true,
+        "waitlist_reservation": null,
+        "wi_fi": "free",
+        "liked_by_vegans": null,
+        "outdoor_seating": true,
+        "liked_by_vegetarians": null,
+        "hot_and_new": null
+      }
+    },
+    {
+      "id": "P-MdwjOfw-o2eJ4hCMXAZg",
+      "alias": "reborn-coffee-diamond-bar-diamond-bar-2",
+      "name": "Reborn Coffee - Diamond Bar",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/RMt2BfoOhW7QDJTrQILGyA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/reborn-coffee-diamond-bar-diamond-bar-2?adjust_creative=r6VX33nwXOpudXpisbQp5w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r6VX33nwXOpudXpisbQp5w",
+      "review_count": 90,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "coffeeroasteries",
+          "title": "Coffee Roasteries"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": 34.00255904958603,
+        "longitude": -117.80983742326498
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "1138 S Diamond Bar Blvd",
+        "address2": "",
+        "address3": null,
+        "city": "Diamond Bar",
+        "zip_code": "91765",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "1138 S Diamond Bar Blvd",
+          "Diamond Bar, CA 91765"
+        ]
+      },
+      "phone": "+15626407050",
+      "display_phone": "(562) 640-7050",
+      "distance": 5049.335836310866,
+      "attributes": {
+        "business_url": "https://reborncoffee.com",
+        "about_this_biz_bio_photo_dict": null,
+        "about_this_biz_business_recommendation": [],
+        "business_temp_closed": null,
+        "about_this_biz_bio": null,
+        "about_this_biz_bio_first_name": null,
+        "about_this_biz_bio_last_name": null,
+        "about_this_biz_history": null,
+        "about_this_biz_role": null,
+        "about_this_biz_specialties": null,
+        "about_this_biz_year_established": null,
+        "alcohol": null,
+        "ambience": null,
+        "bike_parking": null,
+        "business_accepts_android_pay": null,
+        "business_accepts_apple_pay": null,
+        "business_accepts_credit_cards": null,
+        "business_parking": {
+          "valet": false,
+          "garage": null,
+          "street": null,
+          "lot": null,
+          "validated": false
+        },
+        "caters": null,
+        "dogs_allowed": true,
+        "drive_thru": null,
+        "good_for_kids": null,
+        "good_for_meal": null,
+        "good_for_working": null,
+        "happy_hour": null,
+        "has_tv": null,
+        "menu_url": "https://order.snackpass.co/Reborn-Coffee-Diamond-Bar-62f2d7d2dee83600db9b31d9?openAddressSelectorIfChain=true",
+        "noise_level": "quiet",
+        "open24_hours": null,
+        "platform_delivery": null,
+        "restaurants_delivery": null,
+        "restaurants_good_for_groups": null,
+        "restaurants_reservations": null,
+        "restaurants_table_service": null,
+        "restaurants_take_out": null,
+        "waitlist_reservation": null,
+        "wi_fi": "free",
+        "liked_by_vegans": null,
+        "liked_by_vegetarians": null,
+        "outdoor_seating": true,
+        "hot_and_new": null
+      }
+    },
+    {
+      "id": "PffEwVfJLAjgKPy-9mUSFQ",
+      "alias": "pixie-donuts-pomona-2",
+      "name": "Pixie Donuts",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4Ae_bKHIbtyTKFK3PxcI3Q/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/pixie-donuts-pomona-2?adjust_creative=r6VX33nwXOpudXpisbQp5w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r6VX33nwXOpudXpisbQp5w",
+      "review_count": 90,
+      "categories": [
+        {
+          "alias": "donuts",
+          "title": "Donuts"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 4.3,
+      "coordinates": {
+        "latitude": 34.0418519,
+        "longitude": -117.7990689
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "3052 W Temple Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Pomona",
+        "zip_code": "91766",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "3052 W Temple Ave",
+          "Pomona, CA 91766"
+        ]
+      },
+      "phone": "+19096223356",
+      "display_phone": "(909) 622-3356",
+      "distance": 1329.5575173814645,
+      "attributes": {
+        "business_accepts_apple_pay": false,
+        "good_for_working": true,
+        "business_url": null,
+        "about_this_biz_bio_photo_dict": null,
+        "about_this_biz_business_recommendation": [],
+        "business_temp_closed": null,
+        "about_this_biz_bio": null,
+        "about_this_biz_bio_first_name": null,
+        "about_this_biz_bio_last_name": null,
+        "about_this_biz_history": null,
+        "about_this_biz_role": null,
+        "about_this_biz_specialties": "Fresh bake donuts and croissants in store everyday. \nAlways provide loyalty to customers. Homemade donuts in Phillips Ranch.",
+        "about_this_biz_year_established": "1985",
+        "bike_parking": true,
+        "business_accepts_android_pay": null,
+        "business_accepts_credit_cards": true,
+        "business_parking": {
+          "garage": false,
+          "street": false,
+          "validated": false,
+          "lot": true,
+          "valet": false
+        },
+        "caters": false,
+        "dogs_allowed": null,
+        "drive_thru": null,
+        "good_for_kids": null,
+        "menu_url": null,
+        "noise_level": "quiet",
+        "platform_delivery": null,
+        "restaurants_delivery": true,
+        "restaurants_take_out": true,
+        "waitlist_reservation": null,
+        "wi_fi": "no",
+        "outdoor_seating": false,
+        "hot_and_new": null
+      }
+    },
+    {
+      "id": "IKoK1Zu8wD50q88rFnRnKA",
+      "alias": "jj-boba-pomona",
+      "name": "JJ Boba",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4pirIJhN_cYw8oVNHqBnjQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/jj-boba-pomona?adjust_creative=r6VX33nwXOpudXpisbQp5w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r6VX33nwXOpudXpisbQp5w",
+      "review_count": 133,
+      "categories": [
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 34.04842,
+        "longitude": -117.81095
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "3560 W Temple Ave",
+        "address2": "Ste A&B",
+        "address3": null,
+        "city": "Pomona",
+        "zip_code": "91768",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "3560 W Temple Ave",
+          "Ste A&B",
+          "Pomona, CA 91768"
+        ]
+      },
+      "phone": "+19095988499",
+      "display_phone": "(909) 598-8499",
+      "distance": 76.0771059954712,
+      "attributes": {
+        "business_url": "http://www.jjboba.com",
+        "about_this_biz_bio_photo_dict": null,
+        "about_this_biz_business_recommendation": [],
+        "business_temp_closed": null,
+        "about_this_biz_bio": null,
+        "about_this_biz_bio_first_name": null,
+        "about_this_biz_bio_last_name": null,
+        "about_this_biz_history": null,
+        "about_this_biz_role": null,
+        "about_this_biz_specialties": null,
+        "about_this_biz_year_established": null,
+        "bike_parking": true,
+        "business_accepts_android_pay": null,
+        "business_accepts_apple_pay": null,
+        "business_accepts_credit_cards": true,
+        "business_parking": {
+          "valet": false,
+          "garage": false,
+          "street": false,
+          "lot": true,
+          "validated": false
+        },
+        "caters": true,
+        "dogs_allowed": false,
+        "drive_thru": false,
+        "good_for_kids": null,
+        "menu_url": "http://www.jjboba.com/menu/",
+        "noise_level": "average",
+        "platform_delivery": null,
+        "restaurants_delivery": true,
+        "restaurants_take_out": true,
+        "waitlist_reservation": null,
+        "hot_and_new": null
+      }
+    },
+    {
+      "id": "Y3vSGI4Uzw28zJ0DFq6zKg",
+      "alias": "bubble-n-cone-diamond-bar",
+      "name": "Bubble N Cone",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/k8Or6afKxJQSYFHptRvG9w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/bubble-n-cone-diamond-bar?adjust_creative=r6VX33nwXOpudXpisbQp5w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r6VX33nwXOpudXpisbQp5w",
+      "review_count": 71,
+      "categories": [
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        },
+        {
+          "alias": "icecream",
+          "title": "Ice Cream & Frozen Yogurt"
+        },
+        {
+          "alias": "desserts",
+          "title": "Desserts"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": 33.9984223,
+        "longitude": -117.8457841
+      },
+      "transactions": [],
+      "location": {
+        "address1": "21046 Golden Springs Dr",
+        "address2": "Ste D12",
+        "address3": null,
+        "city": "Diamond Bar",
+        "zip_code": "91789",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "21046 Golden Springs Dr",
+          "Ste D12",
+          "Diamond Bar, CA 91789"
+        ]
+      },
+      "phone": "+19093788080",
+      "display_phone": "(909) 378-8080",
+      "distance": 6378.1263692064595,
+      "attributes": {
+        "business_url": null,
+        "about_this_biz_bio_photo_dict": null,
+        "about_this_biz_business_recommendation": [],
+        "business_temp_closed": null,
+        "about_this_biz_bio": null,
+        "about_this_biz_bio_first_name": null,
+        "about_this_biz_bio_last_name": null,
+        "about_this_biz_history": null,
+        "about_this_biz_role": null,
+        "about_this_biz_specialties": null,
+        "about_this_biz_year_established": null,
+        "bike_parking": null,
+        "business_accepts_android_pay": null,
+        "business_accepts_apple_pay": null,
+        "business_accepts_credit_cards": null,
+        "business_parking": null,
+        "caters": null,
+        "dogs_allowed": null,
+        "drive_thru": null,
+        "good_for_kids": null,
+        "menu_url": "",
+        "noise_level": null,
+        "platform_delivery": null,
+        "restaurants_delivery": null,
+        "restaurants_take_out": null,
+        "waitlist_reservation": null,
+        "wi_fi": null,
+        "liked_by_vegans": null,
+        "liked_by_vegetarians": null,
+        "hot_and_new": null
+      }
+    },
+    {
+      "id": "ZDrpEvaZKX1-YVLOGXYs4A",
+      "alias": "wish-you-were-here-coffee-pomona",
+      "name": "Wish You Were Here Coffee",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lNhwbxOhJEWOswQWxmk86A/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/wish-you-were-here-coffee-pomona?adjust_creative=r6VX33nwXOpudXpisbQp5w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r6VX33nwXOpudXpisbQp5w",
+      "review_count": 238,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "coffeeroasteries",
+          "title": "Coffee Roasteries"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": 34.057199657984,
+        "longitude": -117.7498288792822
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "101 E 3rd St",
+        "address2": null,
+        "address3": null,
+        "city": "Pomona",
+        "zip_code": "91766",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "101 E 3rd St",
+          "Pomona, CA 91766"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 5718.953632710795,
+      "attributes": {
+        "good_for_working": true,
+        "business_url": null,
+        "about_this_biz_bio_photo_dict": null,
+        "about_this_biz_business_recommendation": [],
+        "business_temp_closed": null,
+        "about_this_biz_bio": null,
+        "about_this_biz_bio_first_name": null,
+        "about_this_biz_bio_last_name": null,
+        "about_this_biz_history": null,
+        "about_this_biz_role": null,
+        "about_this_biz_specialties": null,
+        "about_this_biz_year_established": null,
+        "alcohol": null,
+        "ambience": null,
+        "bike_parking": null,
+        "business_accepts_android_pay": null,
+        "business_accepts_apple_pay": null,
+        "business_accepts_credit_cards": true,
+        "business_parking": {
+          "valet": false,
+          "garage": false,
+          "street": true,
+          "lot": false,
+          "validated": false
+        },
+        "caters": null,
+        "dogs_allowed": true,
+        "drive_thru": null,
+        "good_for_kids": null,
+        "good_for_meal": null,
+        "happy_hour": null,
+        "has_tv": null,
+        "menu_url": null,
+        "noise_level": null,
+        "open24_hours": null,
+        "platform_delivery": null,
+        "restaurants_delivery": null,
+        "restaurants_good_for_groups": null,
+        "restaurants_reservations": false,
+        "restaurants_table_service": null,
+        "restaurants_take_out": true,
+        "waitlist_reservation": null,
+        "wi_fi": "free",
+        "liked_by_vegans": null,
+        "liked_by_vegetarians": null,
+        "outdoor_seating": false,
+        "hot_and_new": null
+      }
+    },
+    {
+      "id": "Nqns98csD4A8V-O_Ajxu4w",
+      "alias": "the-dirty-penguin-chino-hills-2",
+      "name": "The Dirty Penguin",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/m0Njzy0wejB8zNGslPOuQA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/the-dirty-penguin-chino-hills-2?adjust_creative=r6VX33nwXOpudXpisbQp5w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=r6VX33nwXOpudXpisbQp5w",
+      "review_count": 1300,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 33.9858343112112,
+        "longitude": -117.71633826676
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "14708 Pipeline Ave",
+        "address2": "Ste C",
+        "address3": null,
+        "city": "Chino Hills",
+        "zip_code": "91709",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "14708 Pipeline Ave",
+          "Ste C",
+          "Chino Hills, CA 91709"
+        ]
+      },
+      "phone": "+19096064634",
+      "display_phone": "(909) 606-4634",
+      "distance": 11120.831846774932,
+      "attributes": {
+        "business_accepts_android_pay": false,
+        "business_accepts_apple_pay": true,
+        "good_for_working": true,
+        "business_url": "https://thedirtypenguin.site",
+        "about_this_biz_bio_photo_dict": null,
+        "about_this_biz_business_recommendation": [],
+        "business_temp_closed": null,
+        "about_this_biz_bio": "New, fresh and exciting Dirty Penguin coming to you Jan 5th 2019!",
+        "about_this_biz_bio_first_name": "April",
+        "about_this_biz_bio_last_name": "S",
+        "about_this_biz_history": null,
+        "about_this_biz_role": "Business Owner",
+        "about_this_biz_specialties": "The Dirty Penguin is a specialty coffee shop in Chino Hills proudly serving Counter Culture Coffee \nJoin us for coffee & brunch 7 days a week.\n\nFollow us @dirtypenguincoffee for more info. Thanks for all the love and support, it's because of you that we are here doing what we love. #drinkitdirty\n\nThe little penguin is closed for the foreseeable future, we apologize any inconvenience ",
+        "about_this_biz_year_established": "2016",
+        "alcohol": "none",
+        "ambience": {
+          "touristy": false,
+          "hipster": true,
+          "romantic": false,
+          "divey": false,
+          "intimate": false,
+          "trendy": true,
+          "upscale": false,
+          "classy": true,
+          "casual": true
+        },
+        "bike_parking": false,
+        "business_accepts_credit_cards": true,
+        "business_parking": {
+          "garage": false,
+          "street": true,
+          "validated": false,
+          "lot": true,
+          "valet": false
+        },
+        "caters": false,
+        "dogs_allowed": false,
+        "drive_thru": false,
+        "good_for_kids": true,
+        "good_for_meal": {
+          "dessert": false,
+          "latenight": false,
+          "lunch": false,
+          "dinner": false,
+          "brunch": false,
+          "breakfast": true
+        },
+        "happy_hour": false,
+        "has_tv": false,
+        "menu_url": "https://thedirtypenguin.site/menu",
+        "noise_level": "average",
+        "open24_hours": null,
+        "platform_delivery": null,
+        "restaurants_delivery": null,
+        "restaurants_good_for_groups": true,
+        "restaurants_reservations": false,
+        "restaurants_table_service": false,
+        "restaurants_take_out": true,
+        "waitlist_reservation": null,
+        "wi_fi": "free",
+        "liked_by_vegetarians": true,
+        "outdoor_seating": true,
+        "liked_by_vegans": true,
+        "hot_and_new": null
+      }
+    }
+  ],
+  "total": 415,
+  "region": {
+    "center": {
+      "longitude": -117.8108955,
+      "latitude": 34.0479604
+    }
+  }
+}
