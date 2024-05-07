@@ -1,15 +1,16 @@
 # yelp_cafes.py
 # cafes info and reviews from yelp fusion api
 
-import requests
+import requests, os
+from dotenv import load_dotenv
 
-APIKEY = "gP5i7vEDiOtYJ66OYFH5o95n9G-DTxQq5rjBrL6FR5YY_hkOWzu226jVSsbw7AWPk3VwtyijP1aRvTSr6bltSMHLDeEsl9eKCnQkP-QSsfk4F9tbrt7-D8qlEts5ZnYx"
+load_dotenv()
+APIKEY = os.getenv("YELP_API_KEY")
 
 headers = {
     "accept": "application/json",
     "Authorization": "Bearer " + APIKEY
-    }
-
+}
 
 # ==== get_cafes ==============================================================
 # Take parameters and return 20 cafes that fit the requirements.
@@ -70,7 +71,6 @@ def get_cafes(lat, long, userQuery, isOpen=False):
 # Locale set to en_US only. (not intended for outside US)
 # Reviews limit set to 50. (arbitrary because only returns 3 excerpts anyway)
 # Sort by "yelp sort".
-
 def get_reviews(business_id):
     url = "https://api.yelp.com/v3/businesses/" + business_id\
     + "/reviews?locale=en_US&limit=50&sort_by=yelp_sort"
@@ -91,7 +91,6 @@ def get_reviews(business_id):
 #
 # NOTES
 # Locale set to en_US only. (not intended for outside US)
-
 def get_details(business_id):
     url = "https://api.yelp.com/v3/businesses/" + business_id\
     + "?locale=en_US"
