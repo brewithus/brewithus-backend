@@ -34,11 +34,14 @@ headers = {
 # Only up to 20 results will be given.
 # Only return businesses with 1+ reviews.
 
-def get_cafes(lat, long, userQuery="", isOpen=False):
+def get_cafes(lat, long, userQuery, isOpen=False):
     url = "https://api.yelp.com/v3/businesses/search?latitude=" + lat\
-    + "&longitude=" + long\
-    + "&term=" + userQuery\
-    + "&radius=12000&categories=coffee&categories=tea&categories=bubbletea&locale=en_US"
+    + "&longitude=" + long
+    
+    if len(userQuery) > 0:
+        url = url + "&term=" + userQuery
+    
+    url = url + "&radius=12000&categories=coffee&categories=tea&categories=bubbletea&locale=en_US"
     
     if isinstance(isOpen, bool):
         if isOpen:

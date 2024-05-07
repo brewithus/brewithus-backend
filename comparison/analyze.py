@@ -51,13 +51,14 @@ app = Flask(__name__)
 @app.route('/api/business', methods=['GET'])
 def get_restaurants():
     # Get parameters from query string
-    query = request.args.get('q')
+    query = request.args.get('q', '')
     lat = request.args.get('lat')
     lng = request.args.get('lng')
+    isOpen = request.args.get('open', False)
     # Rank businesses near lat lng based on query
 
     # get_cafes function
-    cafes = get_cafes(lat, lng, query)
+    cafes = get_cafes(lat, lng, query, isOpen)
 
     # rank cafes
     ranked_cafes = rank_restaurants(query, cafes)
