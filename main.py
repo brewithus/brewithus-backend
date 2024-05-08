@@ -5,7 +5,7 @@ from comparison.analyze import rank_restaurants
 from yelpfusion.yelp_client import YelpFusionAPI
 from flask_caching import Cache
 from flask_cors import CORS, cross_origin
-
+from middleware import require_token
 load_dotenv()
 
 api_key = os.getenv("YELP_API_KEY")
@@ -13,18 +13,15 @@ yelp_api = YelpFusionAPI(api_key)
 
 app = Flask(__name__)
 
+cache = Cache(app, config={'CACHE_TYPE': 'simple'})
+
 @app.route('/', methods=['GET'])
 def unprotected_route():
     index_path = os.path.join(app.root_path, 'index.html')
     return send_file(index_path)
 
-cors = CORS(app, resources={r"/*": {"origins": ["https://brewith.us"]}}, supports_credentials=True)
-
-app.config['CORS_HEADERS'] = 'Content-Type'
-
-cache = Cache(app, config={'CACHE_TYPE': 'simple'})
-
 @app.route('/business', methods=['GET'])
+@require_token
 # @cache.cached(timeout=3600)  # Cache for 1 hour (3600 seconds)
 def get_restaurants():
     # Get parameters from query string
@@ -69,6 +66,7 @@ def get_restaurants():
         })
 
 @app.route('/business/<string:business_id>', methods=['GET'])
+@require_token
 @cache.cached(timeout=3600)  # Cache for 1 hour (3600 seconds)
 def get_business_details(business_id):
     try:
