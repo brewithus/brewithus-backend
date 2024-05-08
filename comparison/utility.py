@@ -23,6 +23,8 @@ API_KEY = {
     "nick": os.getenv("OPENAI_API_KEY")
 }
 
+USE_MODEL = "'gpt-3.5-turbo'"
+
 API_KEY_USE = 'nick'
 
 DEFAULT_TOKEN_LIMIT = 200
@@ -155,7 +157,7 @@ def chat(prompt, messages=[], token_limit = DEFAULT_TOKEN_LIMIT):
     messages.append({'role': 'user', 'content': prompt})
     save_to_previous_messages({'role': 'user', 'content': prompt})
     response = client.chat.completions.create(
-        model='gpt-3.5-turbo',
+        model=USE_MODEL,
         messages=messages,
         max_tokens=token_limit
     )
