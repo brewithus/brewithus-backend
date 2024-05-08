@@ -20,6 +20,9 @@ def unprotected_route():
     index_path = os.path.join(app.root_path, 'index.html')
     return send_file(index_path)
 
+app.config['CORS_HEADERS'] = 'Content-Type'
+CORS(app, resources={r"/*": {"origins": ["http://localhost:3000","https://brewith.us"]}}, supports_credentials=True)
+
 @app.route('/business', methods=['GET'])
 @require_token
 # @cache.cached(timeout=3600)  # Cache for 1 hour (3600 seconds)
@@ -47,9 +50,6 @@ def get_restaurants():
             'error': 'Failed to fetch data from Yelp',
             'message': biz_response['error']
         }), 500
-    return jsonify({
-        "businesses": biz_response['businesses']
-    })
 
     # rank cafes need further testing
     try:
